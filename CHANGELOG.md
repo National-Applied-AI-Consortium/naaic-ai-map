@@ -8,16 +8,18 @@ build folder:
 cd site && find . -type f -print0 | LC_ALL=C sort -z | xargs -0 sha256sum | sha256sum
 ```
 
-The `site/` folder in this repo is build e49c218b plus the unreleased edits below.
+The `site/` folder in this repo is build f48edf6b, which isn't live yet. The live site is build e49c218b.
 
 ## Unreleased (in the repo, not yet live)
+
+### f48edf6b: credential filter, 3 colleges off the map, confirmed programs (next build)
 - Map page: a credential filter shows colleges with a certificate, associate degree or bachelor's degree, including when it
   isn't their highest credential. It works with the state view and year slider, using each matching program's own start year.
   The map, college list and counts follow it, and a college's details mark which programs match. All dots take the selected
   credential's color while it is on. The growth table doesn't change.
 - News: the EDC "AI Across Careers" item no longer names Bridgerland Technical College, which is kept off the map.
   Its headline now reads "EDC and community colleges launch NSF-funded AI Across Careers" and it lists Green River,
-  Bunker Hill, Nashville State and Harford. This goes live with the next frozen build.
+  Bunker Hill, Nashville State and Harford.
 - Map: County College of Morris, Casper College and El Camino came off because their programs have not launched. The map
   now shows **94 colleges and 145 programs** (was 97 and 148). See NEEDS-VERIFICATION.md.
 - De Anza's Applied AI degree and certificate now show as offered, based on its program page and Fall 2026 class listing.
