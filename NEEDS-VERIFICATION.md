@@ -76,6 +76,16 @@ Checked Nov 4, 2026 (issue #1). These programs were on the map as announced, app
 
 County College of Morris stays in the Grants tab. El Camino stays as the other end of a partnership line.
 
+## Announced, never on the map (1)
+
+Checked Nov 5, 2026. This program stays off the map until a catalog entry or approved program shows its award type and units.
+
+| College | Program | What the source says | Source |
+|---|---|---|---|
+| Moorpark College, Moorpark, CA | Applied Artificial Intelligence certificate | A $3,000,000 grant "will fund" the certificate. No start term, units or award type. Not in the 2026-27 catalog's program list. | https://www.moorparkcollege.edu/news/3-million-federal-grant-brings-applied-ai-training-moorpark-college-students |
+
+Moorpark College stays in the Grants tab.
+
 ## How to verify a row and add it back
 
 1. Open the program source above and confirm the program is still offered (or announced) under that name.
