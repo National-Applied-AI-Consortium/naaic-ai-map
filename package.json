@@ -1,0 +1,12 @@
+{
+  "name": "naaic-ai-map",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Build-time helpers for the NAAIC AI programs map (projects college locations onto the base map).",
+  "dependencies": {
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0",
+    "us-atlas": "^3.0.1"
+  }
+}

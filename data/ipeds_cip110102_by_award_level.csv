@@ -1,0 +1,42 @@
+ipeds_file,award_year,award_year_end,awlevel,award_level,all_institutions_completers,community_college_completers,source_url,as_of
+C2019_A,2018-19,2019,1,Certificate of less than 1 year,0,0,https://nces.ed.gov/ipeds/datacenter/data/C2019_A.zip,2026-11-04
+C2019_A,2018-19,2019,2,Certificate of at least 1 but less than 2 years,0,0,https://nces.ed.gov/ipeds/datacenter/data/C2019_A.zip,2026-11-04
+C2019_A,2018-19,2019,5,Bachelor's degree,18,0,https://nces.ed.gov/ipeds/datacenter/data/C2019_A.zip,2026-11-04
+C2019_A,2018-19,2019,6,Postbaccalaureate certificate,1,0,https://nces.ed.gov/ipeds/datacenter/data/C2019_A.zip,2026-11-04
+C2019_A,2018-19,2019,7,Master's degree,260,0,https://nces.ed.gov/ipeds/datacenter/data/C2019_A.zip,2026-11-04
+C2019_A,2018-19,2019,17,Doctor's degree: research/scholarship,46,0,https://nces.ed.gov/ipeds/datacenter/data/C2019_A.zip,2026-11-04
+C2020_A,2019-20,2020,2,Certificate of at least 1 but less than 2 years,0,0,https://nces.ed.gov/ipeds/datacenter/data/C2020_A.zip,2026-11-04
+C2020_A,2019-20,2020,3,Associate's degree,1,0,https://nces.ed.gov/ipeds/datacenter/data/C2020_A.zip,2026-11-04
+C2020_A,2019-20,2020,5,Bachelor's degree,39,0,https://nces.ed.gov/ipeds/datacenter/data/C2020_A.zip,2026-11-04
+C2020_A,2019-20,2020,6,Postbaccalaureate certificate,15,0,https://nces.ed.gov/ipeds/datacenter/data/C2020_A.zip,2026-11-04
+C2020_A,2019-20,2020,7,Master's degree,296,0,https://nces.ed.gov/ipeds/datacenter/data/C2020_A.zip,2026-11-04
+C2020_A,2019-20,2020,17,Doctor's degree: research/scholarship,32,0,https://nces.ed.gov/ipeds/datacenter/data/C2020_A.zip,2026-11-04
+C2020_A,2019-20,2020,21,Certificate of at least 12 weeks but less than 1 year,6,2,https://nces.ed.gov/ipeds/datacenter/data/C2020_A.zip,2026-11-04
+C2021_A,2020-21,2021,2,Certificate of at least 1 but less than 2 years,0,0,https://nces.ed.gov/ipeds/datacenter/data/C2021_A.zip,2026-11-04
+C2021_A,2020-21,2021,3,Associate's degree,1,0,https://nces.ed.gov/ipeds/datacenter/data/C2021_A.zip,2026-11-04
+C2021_A,2020-21,2021,5,Bachelor's degree,30,0,https://nces.ed.gov/ipeds/datacenter/data/C2021_A.zip,2026-11-04
+C2021_A,2020-21,2021,6,Postbaccalaureate certificate,49,0,https://nces.ed.gov/ipeds/datacenter/data/C2021_A.zip,2026-11-04
+C2021_A,2020-21,2021,7,Master's degree,397,0,https://nces.ed.gov/ipeds/datacenter/data/C2021_A.zip,2026-11-04
+C2021_A,2020-21,2021,17,Doctor's degree: research/scholarship,29,0,https://nces.ed.gov/ipeds/datacenter/data/C2021_A.zip,2026-11-04
+C2021_A,2020-21,2021,21,Certificate of at least 12 weeks but less than 1 year,11,3,https://nces.ed.gov/ipeds/datacenter/data/C2021_A.zip,2026-11-04
+C2022_A,2021-22,2022,2,Certificate of at least 1 but less than 2 years,0,0,https://nces.ed.gov/ipeds/datacenter/data/C2022_A.zip,2026-11-04
+C2022_A,2021-22,2022,3,Associate's degree,7,2,https://nces.ed.gov/ipeds/datacenter/data/C2022_A.zip,2026-11-04
+C2022_A,2021-22,2022,5,Bachelor's degree,104,0,https://nces.ed.gov/ipeds/datacenter/data/C2022_A.zip,2026-11-04
+C2022_A,2021-22,2022,6,Postbaccalaureate certificate,69,0,https://nces.ed.gov/ipeds/datacenter/data/C2022_A.zip,2026-11-04
+C2022_A,2021-22,2022,7,Master's degree,485,0,https://nces.ed.gov/ipeds/datacenter/data/C2022_A.zip,2026-11-04
+C2022_A,2021-22,2022,17,Doctor's degree: research/scholarship,37,0,https://nces.ed.gov/ipeds/datacenter/data/C2022_A.zip,2026-11-04
+C2022_A,2021-22,2022,21,Certificate of at least 12 weeks but less than 1 year,10,3,https://nces.ed.gov/ipeds/datacenter/data/C2022_A.zip,2026-11-04
+C2023_A,2022-23,2023,2,Certificate of at least 1 but less than 2 years,6,0,https://nces.ed.gov/ipeds/datacenter/data/C2023_A.zip,2026-11-04
+C2023_A,2022-23,2023,3,Associate's degree,13,10,https://nces.ed.gov/ipeds/datacenter/data/C2023_A.zip,2026-11-04
+C2023_A,2022-23,2023,5,Bachelor's degree,104,0,https://nces.ed.gov/ipeds/datacenter/data/C2023_A.zip,2026-11-04
+C2023_A,2022-23,2023,6,Postbaccalaureate certificate,141,0,https://nces.ed.gov/ipeds/datacenter/data/C2023_A.zip,2026-11-04
+C2023_A,2022-23,2023,7,Master's degree,935,0,https://nces.ed.gov/ipeds/datacenter/data/C2023_A.zip,2026-11-04
+C2023_A,2022-23,2023,17,Doctor's degree: research/scholarship,33,0,https://nces.ed.gov/ipeds/datacenter/data/C2023_A.zip,2026-11-04
+C2023_A,2022-23,2023,21,Certificate of at least 12 weeks but less than 1 year,32,13,https://nces.ed.gov/ipeds/datacenter/data/C2023_A.zip,2026-11-04
+C2024_A,2023-24,2024,2,Certificate of at least 1 but less than 2 years,16,0,https://nces.ed.gov/ipeds/datacenter/data/C2024_A.zip,2026-11-04
+C2024_A,2023-24,2024,3,Associate's degree,26,24,https://nces.ed.gov/ipeds/datacenter/data/C2024_A.zip,2026-11-04
+C2024_A,2023-24,2024,5,Bachelor's degree,115,0,https://nces.ed.gov/ipeds/datacenter/data/C2024_A.zip,2026-11-04
+C2024_A,2023-24,2024,6,Postbaccalaureate certificate,203,0,https://nces.ed.gov/ipeds/datacenter/data/C2024_A.zip,2026-11-04
+C2024_A,2023-24,2024,7,Master's degree,1122,0,https://nces.ed.gov/ipeds/datacenter/data/C2024_A.zip,2026-11-04
+C2024_A,2023-24,2024,17,Doctor's degree: research/scholarship,53,0,https://nces.ed.gov/ipeds/datacenter/data/C2024_A.zip,2026-11-04
+C2024_A,2023-24,2024,21,Certificate of at least 12 weeks but less than 1 year,81,39,https://nces.ed.gov/ipeds/datacenter/data/C2024_A.zip,2026-11-04
