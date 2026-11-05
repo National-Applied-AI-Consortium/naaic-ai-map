@@ -152,6 +152,9 @@ Updates are made by hand in reviewed batches. Nothing updates on its own.
    screenshots, then upload it to the host.
 4. To undo a publish, go back to the rollback point. To undo a change in the repo, revert its commit.
 
+Publish only from a named commit on `main`, and confirm the `site/` hash matches that commit before uploading. Changes made
+outside this repo reach the live map only through a pull request here.
+
 Planning and team discussion happen in a private tracker. Automated tools open pull requests and never merge or publish.
 
 ## Hosting
