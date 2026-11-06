@@ -185,7 +185,7 @@ test("the filter offers only credentials on the map, lowest first", () => {
   assert.deepEqual(page([college("x", cert("Cert")), { id: "g", kind: "grant", programs: [] }]).types(), ["tc"]);
 });
 
-test("the filter picks up a new credential type from one new table row (#3)", () => {
+test("the filter picks up a new credential type from one new table row (naaic-ai-map-planning#3)", () => {
   const p = page([...SAMPLE, college("tracked", { name: "AI track", award: "AI track" })]);
   p.run(`CT.splice(2,0,{k:"tt",re:/track/i,short:"AI track",label:"AI track",a:"an",one:"AI track",many:"AI tracks"})`);
   assert.deepEqual(p.shown("tt", 2026), ["tracked"]);
