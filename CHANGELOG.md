@@ -8,11 +8,15 @@ build folder:
 cd site && find . -type f -print0 | LC_ALL=C sort -z | xargs -0 sha256sum | sha256sum
 ```
 
-The `site/` folder in this repo is build f48edf6b, which isn't live yet. The live site is build e49c218b.
+The `site/` folder in this repo is build f48edf6b, which is the live build.
 
 ## Unreleased (in the repo, not yet live)
 
-### f48edf6b: credential filter, 3 colleges off the map, confirmed programs (next build)
+Nothing yet.
+
+## Nov 5, 2026
+
+### f48edf6b: credential filter, 3 colleges off the map, confirmed programs (current)
 - Map page: a credential filter shows colleges with a certificate, associate degree or bachelor's degree, including when it
   isn't their highest credential. It works with the state view and year slider, using each matching program's own start year.
   The map, college list and counts follow it, and a college's details mark which programs match. All dots take the selected
@@ -34,7 +38,7 @@ The `site/` folder in this repo is build f48edf6b, which isn't live yet. The liv
 
 ## Nov 3, 2026
 
-### e49c218b: new grants, news and one new college (current)
+### e49c218b: new grants, news and one new college
 - County College of Morris (NJ) is added to the map with its Certificate in AI & Data Science (status: announced, no
   launch year yet). The map now shows **97 colleges and 148 programs** (was 96 and 147).
 - Two new grants: Johnston Community College ($150,000 from the Gates Foundation, Oct 2026) and Fullerton College
