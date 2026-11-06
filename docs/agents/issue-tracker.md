@@ -13,6 +13,7 @@ Issues and specs for this repo live as GitHub issues in the private `National-Ap
 - **Comment on an issue**: `gh issue comment <number> --body "..."`
 - **Apply / remove labels**: `gh issue edit <number> --add-label "..."` / `--remove-label "..."`
 - **Close**: post the explanation with `gh issue comment <number> --body "..."`, then `gh issue close <number>`. On an already-closed issue, `gh issue close --comment` drops the comment and still exits 0.
+- **When to close**: a change to `site/` is done when the build with it is live, so close its issue after the deploy. Close any other issue after its pull request merges.
 
 Don't infer the issue repo from `git remote -v`: this clone's remote is the public code repo, which has no issues. Pull requests do live in this repo, so `gh pr` commands need no `-R`.
 
@@ -28,7 +29,9 @@ When set to `yes`, PRs run through the same labels and states as issues, using t
 - **List external PRs for triage**: `gh api --paginate 'repos/{owner}/{repo}/pulls?state=open' --jq '.[] | select(.author_association | IN("OWNER","MEMBER","COLLABORATOR") | not) | {number, title, author: .user.login, author_association, labels: [.labels[].name]}'`.
 - **Comment / label / close**: `gh pr comment`, `gh pr edit --add-label`/`--remove-label`, `gh pr close`.
 
-Issues and PRs live in separate repos with separate numbers, so a bare `#42` may be either, or both: check `gh pr view 42` and `gh issue view 42 -R National-Applied-AI-Consortium/naaic-ai-map-planning`, and ask if both exist and the context doesn't settle it. In this repo's text, write an issue as `naaic-ai-map-planning#42`.
+Issues and PRs live in separate repos with separate numbers, so a bare `#42` may be either, or both: check `gh pr view 42` and `gh issue view 42 -R National-Applied-AI-Consortium/naaic-ai-map-planning`, and ask if both exist and the context doesn't settle it.
+
+Write an issue as `National-Applied-AI-Consortium/naaic-ai-map-planning#42` in pull requests, outside backticks, so GitHub links it. The shorter `naaic-ai-map-planning#42` shows as plain text, so keep it to files in this repo. From a private issue, link a pull request as `National-Applied-AI-Consortium/naaic-ai-map#42`.
 
 ## When a skill says "publish to the issue tracker"
 
