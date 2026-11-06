@@ -66,7 +66,7 @@ These colleges stay on the map because they have at least one other confirmed AI
 
 ## Taken off because the program has not launched (3)
 
-Checked Nov 4, 2026 (issue #1). These programs were on the map as announced, approved or upcoming.
+Checked Nov 4, 2026 (`naaic-ai-map-planning#1`). These programs were on the map as announced, approved or upcoming.
 
 | College | Program | Status on the map | What the source says | Source |
 |---|---|---|---|---|
