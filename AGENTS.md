@@ -31,7 +31,7 @@ Merging leaves the live map unchanged. Publishing is a separate manual step: a m
 Code, data and pull requests live here. Planning lives in the private `National-Applied-AI-Consortium/naaic-ai-map-planning` repo.
 
 - Pull request text, commit messages and code comments are public. Keep people's names, meeting notes, hosting accounts and budget details in the private issues.
-- Link an issue as `naaic-ai-map-planning#24` and describe the change in the pull request itself, because readers without access can't open the issue.
+- Link an issue as `National-Applied-AI-Consortium/naaic-ai-map-planning#24`, outside backticks, and describe the change in the pull request itself, because readers without access can't open the issue.
 - CI runs `site_data.py check`, the tests and gitleaks on every pull request. Don't merge on a failure.
 
 ## Searching the site
