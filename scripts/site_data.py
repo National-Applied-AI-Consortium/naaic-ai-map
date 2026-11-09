@@ -97,6 +97,14 @@ def need(rec, where):
     return problems
 
 
+def launch_problems(p, where):
+    """Problems with a program's status. The map lists launched programs only; announced, approved or upcoming
+    ones wait in NEEDS-VERIFICATION.md."""
+    if re.fullmatch(r"offered( \(.+\))?", str(p.get("status") or "")):
+        return []
+    return [f"{where}: status {p.get('status')!r} is not launched (move it to NEEDS-VERIFICATION.md)"]
+
+
 def valid_date(d):
     """True for a date the page can show: YYYY-MM-DD or YYYY-MM."""
     fmt = {10: "%Y-%m-%d", 7: "%Y-%m"}.get(len(str(d)))
@@ -153,7 +161,8 @@ def check():
         if not c.get("xy"):
             problems.append(f"inst {c['id']}: no map position (xy)")
         for p in c["programs"]:
-            problems += need(p, f"program {c['id']} {p.get('name')!r}")
+            where = f"program {c['id']} {p.get('name')!r}"
+            problems += need(p, where) + launch_problems(p, where)
     for g in D["grants"]:
         problems += need(g, f"grant {g.get('id')}")
     for l in D["lines"]:

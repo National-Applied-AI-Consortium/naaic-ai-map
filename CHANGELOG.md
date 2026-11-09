@@ -16,6 +16,8 @@ The `site/` folder in this repo is build f48edf6b, which is the live build.
   It stays in the Grants tab. The map now shows **93 colleges and 144 programs** (was 94 and 145), and the growth
   table's 2026 count is 64 (was 65). See NEEDS-VERIFICATION.md.
 - Map page: "Updated" moves to Nov 9, 2026.
+- Data check: `site_data.py check` now stops on a program whose status isn't "offered", so an announced or
+  upcoming program can't reach the map. Nothing in `site/` changes.
 
 ## Nov 5, 2026
 

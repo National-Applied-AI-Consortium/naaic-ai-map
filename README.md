@@ -130,7 +130,7 @@ Updates are made by hand in reviewed batches. Nothing updates on its own.
    python3 scripts/site_data.py embed
    python3 scripts/site_data.py check
    ```
-   `check` stops on a missing source link or date, a dot with no program, a partnership line to an unknown
+   `check` stops on a missing source link or date, a program whose status isn't "offered", a dot with no program, a partnership line to an unknown
    college, a non-confirmed growth row, growth table counts that don't match the rows, a featured entry that is incomplete
    or has a logo that isn't embedded, or IPEDS rows that don't match the by-year CSV.
 5. **Update the parts that are written by hand.**

@@ -2,7 +2,7 @@
 """Tests for the data check in site_data.py. Run from the repo root: python3 scripts/test_site_data.py"""
 import unittest
 
-from site_data import featured_problems
+from site_data import featured_problems, launch_problems
 
 LOGO = "data:image/png;base64,iVBORw0KGgo="
 
@@ -56,6 +56,24 @@ class FeaturedEntries(unittest.TestCase):
     def test_complete_entry_and_no_entries_are_fine(self):
         self.assertEqual(featured_problems([entry()]), [])
         self.assertEqual(featured_problems([]), [])
+
+
+
+class ProgramStatus(unittest.TestCase):
+    def test_offered_program_is_fine(self):
+        self.assertEqual(launch_problems({"status": "offered"}, "program x"), [])
+
+    def test_offered_with_a_note_is_fine(self):
+        self.assertEqual(launch_problems({"status": "offered (2024-25 catalog)"}, "program x"), [])
+
+    def test_program_not_launched_is_a_problem(self):
+        for status in ["launching fall 2026", "approved", "announced", "offered soon"]:
+            problems = launch_problems({"status": status}, "program x")
+            self.assertEqual(len(problems), 1, status)
+            self.assertIn("NEEDS-VERIFICATION.md", problems[0])
+
+    def test_program_without_a_status_is_a_problem(self):
+        self.assertEqual(len(launch_problems({}, "program x")), 1)
 
 
 if __name__ == "__main__":
