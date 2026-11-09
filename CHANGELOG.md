@@ -12,7 +12,10 @@ The `site/` folder in this repo is build f48edf6b, which is the live build.
 
 ## Unreleased (in the repo, not yet live)
 
-Nothing yet.
+- Map: Atlantic Cape Community College came off because nothing shows its AI & Machine Learning option has started.
+  It stays in the Grants tab. The map now shows **93 colleges and 144 programs** (was 94 and 145), and the growth
+  table's 2026 count is 64 (was 65). See NEEDS-VERIFICATION.md.
+- Map page: "Updated" moves to Nov 9, 2026.
 
 ## Nov 5, 2026
 
