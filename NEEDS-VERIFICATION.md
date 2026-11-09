@@ -64,17 +64,19 @@ These colleges stay on the map because they have at least one other confirmed AI
   Careers" item on the News page (`site/news/index.html`) lists it among the five partner colleges, because EDC's
   own announcement names it. That mention is accurate to the source and was left in.
 
-## Taken off because the program has not launched (3)
+## Taken off because the program has not launched (4)
 
-Checked Nov 4, 2026 (`naaic-ai-map-planning#1`). These programs were on the map as announced, approved or upcoming.
+Checked Nov 4, 2026 (`naaic-ai-map-planning#1`). These programs were on the map as announced, approved or upcoming. Atlantic Cape
+was still unconfirmed on Nov 9, 2026, so it came off then (`naaic-ai-map-planning#18`).
 
 | College | Program | Status on the map | What the source says | Source |
 |---|---|---|---|---|
 | County College of Morris, Randolph, NJ | Certificate in AI & Data Science (registered apprenticeship) | Announced | Applications closed Nov 2, 2026. GovTech reports a January 2027 start. | https://www.ccm.edu/news/applications-are-open-for-ccms-ai-data-science-apprenticeship/ and https://www.govtech.com/education/higher-ed/new-jersey-community-colleges-offer-hands-on-data-science-ai-training |
 | Casper College, Casper, WY | Artificial Intelligence Certificate | Launching fall 2027 | Starts in the fall 2027 semester. | https://caspercollege.edu/news/2026/10/artificial-intelligence-certificate/ |
 | El Camino Community College District, Torrance, CA | AI Practitioner Certificate of Achievement | Approved | A NAAIC post says it was developed and approved, with no start term. No college source found yet. | https://www.naaic.ai/post/from-mentorship-to-momentum-a-look-at-naaics-2025-2026-institutional-mentorship-program |
+| Atlantic Cape Community College, Mays Landing, NJ | Associate Degree in Applied Science, Artificial Intelligence and Machine Learning | Launching fall 2026 | The 2026-27 catalog lists it as an option in the Computer Programming AAS, marked "AIML-Fall 2026". Nothing shows that students have started. | https://catalog.atlantic.edu/computer-programming/artificial-intelligence-machine-learning-option |
 
-County College of Morris stays in the Grants tab. El Camino stays as the other end of a partnership line.
+County College of Morris and Atlantic Cape stay in the Grants tab. El Camino stays as the other end of a partnership line.
 
 ## Announced, never on the map (1)
 

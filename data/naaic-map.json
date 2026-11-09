@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-09",
  "window": "2024-01-01",
  "inst": [
   {
@@ -1968,21 +1968,12 @@
    "city": "Mays Landing",
    "state": "NJ",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [
-    {
-     "name": "Associate Degree in Applied Science, Artificial Intelligence and Machine Learning",
-     "award": "AAS/AS (associate)",
-     "award_detail": "AAS",
-     "status": "launching fall 2026",
-     "source_url": "https://atlanticcape.edu/aiprogram",
-     "as_of": "2026-10-08"
-    }
-   ],
+   "programs": [],
    "grants": [
     "r-2500336"
    ],
    "partners": [],
-   "kind": "prog",
+   "kind": "grant",
    "xy": [
     864.9,
     246.3
@@ -6559,7 +6550,7 @@
   },
   {
    "year": 2026,
-   "us": 65,
+   "us": 64,
    "tx": 17,
    "unknown": "82"
   }
@@ -7056,19 +7047,6 @@
    "as_of": "2026-10-08",
    "conf": "high",
    "method": "first_term"
-  },
-  {
-   "unitid": "183655",
-   "inst": "Atlantic Cape Community College",
-   "state": "NJ",
-   "name": "Associate Degree in Applied Science, Artificial Intelligence and Machine Learning",
-   "award": "AAS",
-   "fy": 2026,
-   "fy_src": "https://atlanticcape.edu/aiprogram",
-   "src": "https://atlanticcape.edu/aiprogram",
-   "as_of": "2026-10-08",
-   "conf": "high",
-   "method": "launch_news"
   },
   {
    "unitid": "182005",
