@@ -1204,7 +1204,7 @@
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
    "programs": [
     {
-     "name": "AI and Automation, Technical Certificates of Credit",
+     "name": "Artificial Intelligence and Automation Technical Certificate of Credit",
      "award": "Certificate",
      "award_detail": "Technical Certificate of Credit (TCC)",
      "status": "offered",

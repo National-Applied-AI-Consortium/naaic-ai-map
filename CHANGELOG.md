@@ -15,7 +15,10 @@ The `site/` folder in this repo is build 5cc55868, which is the live build.
 - Map: 5 programs have new source links because their old pages had moved or weren't program pages. Mitchell's
   A25590AI and Lanier Tech's AI and Automation certificate now link to their 2026-27 catalogs, and Chandler-Gilbert's
   AAS 3891 to the Maricopa district catalog. Laramie County's AI AAS and NorthWest Arkansas's Certificate of Proficiency
-  now link to their program pages. Nothing else about the programs changes.
+  now link to their program pages.
+- Map: Lanier Tech's program is renamed to match its catalog: "Artificial Intelligence and Automation Technical
+  Certificate of Credit" (was "AI and Automation, Technical Certificates of Credit"). Nothing else about the 5 programs
+  changes.
 - Map page: "Updated" moves to Nov 10, 2026.
 
 ## Nov 10, 2026
