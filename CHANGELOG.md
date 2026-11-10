@@ -8,10 +8,13 @@ build folder:
 cd site && find . -type f -print0 | LC_ALL=C sort -z | xargs -0 sha256sum | sha256sum
 ```
 
-The `site/` folder in this repo is build 5cc55868, which is the live build.
+The `site/` folder in this repo is build 260603c3, which is the live build.
 
 ## Unreleased (in the repo, not yet live)
 
+## Nov 10, 2026
+
+### 260603c3: 5 source links fixed, Lanier Tech's program name (current)
 - Map: 5 programs have new source links because their old pages had moved or weren't program pages. Mitchell's
   A25590AI and Lanier Tech's AI and Automation certificate now link to their 2026-27 catalogs, and Chandler-Gilbert's
   AAS 3891 to the Maricopa district catalog. Laramie County's AI AAS and NorthWest Arkansas's Certificate of Proficiency
@@ -21,9 +24,7 @@ The `site/` folder in this repo is build 5cc55868, which is the live build.
   changes.
 - Map page: "Updated" moves to Nov 10, 2026.
 
-## Nov 10, 2026
-
-### 5cc55868: Atlantic Cape sourced to its catalog, data check for launched programs (current)
+### 5cc55868: Atlantic Cape sourced to its catalog, data check for launched programs
 - Map: Atlantic Cape Community College's AI & Machine Learning option now shows as offered. Its source is the 2026-27
   catalog, which lists it as an option in the Computer Programming AAS starting Fall 2026. Its first AI courses (AIML)
   are scheduled for Spring 2027. The map still shows **94 colleges and 145 programs**.
