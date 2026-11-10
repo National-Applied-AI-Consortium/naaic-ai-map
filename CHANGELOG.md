@@ -12,6 +12,11 @@ The `site/` folder in this repo is build 260603c3, which is the live build.
 
 ## Unreleased (in the repo, not yet live)
 
+- Map: 2 programs are renamed to match their sources. Atlantic Cape's is now "Computer Programming AAS, Artificial
+  Intelligence & Machine Learning Option" (was "Associate Degree in Applied Science, Artificial Intelligence and Machine
+  Learning"), in the map and the growth table. NorthWest Arkansas's is now "Certificate of Proficiency in Artificial
+  Intelligence" (was "Artificial Intelligence in the Workplace - Certificate of Proficiency"). Nothing else changes.
+
 ## Nov 10, 2026
 
 ### 260603c3: 5 source links fixed, Lanier Tech's program name (current)
