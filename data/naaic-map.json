@@ -1970,7 +1970,7 @@
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
    "programs": [
     {
-     "name": "Associate Degree in Applied Science, Artificial Intelligence and Machine Learning",
+     "name": "Computer Programming AAS, Artificial Intelligence & Machine Learning Option",
      "award": "AAS/AS (associate)",
      "award_detail": "AAS",
      "status": "offered (2026-27 catalog)",
@@ -4583,7 +4583,7 @@
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
    "programs": [
     {
-     "name": "Artificial Intelligence in the Workplace - Certificate of Proficiency",
+     "name": "Certificate of Proficiency in Artificial Intelligence",
      "award": "Certificate",
      "award_detail": "Certificate of Proficiency",
      "status": "offered",
@@ -7061,7 +7061,7 @@
    "unitid": "183655",
    "inst": "Atlantic Cape Community College",
    "state": "NJ",
-   "name": "Associate Degree in Applied Science, Artificial Intelligence and Machine Learning",
+   "name": "Computer Programming AAS, Artificial Intelligence & Machine Learning Option",
    "award": "AAS",
    "fy": 2026,
    "fy_src": "https://atlanticcape.edu/aiprogram",
