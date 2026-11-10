@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "window": "2024-01-01",
  "inst": [
   {
@@ -1208,8 +1208,8 @@
      "award": "Certificate",
      "award_detail": "Technical Certificate of Credit (TCC)",
      "status": "offered",
-     "source_url": "https://www.laniertech.edu/news/lanier-tech-students-learn-skills-in-artificial-intelligence-automation",
-     "as_of": "2026-10-08"
+     "source_url": "https://laniertech.smartcatalogiq.com/en/2026-2027/catalog/programs-of-study/automation-technology/certificate-level-programs/artificial-intelligence-and-automation-certificate-program",
+     "as_of": "2026-11-10"
     }
    ],
    "grants": [],
@@ -2679,8 +2679,8 @@
      "award": "AAS/AS (associate)",
      "award_detail": "AAS",
      "status": "offered",
-     "source_url": "https://mitchellcc.smartcatalogiq.com/en/2026-2027/college-catalog/programs-of-study/information-technology/information-technology-artificialintelligence-a-a-s-degrees-a25590ai",
-     "as_of": "2026-10-08"
+     "source_url": "https://mitchellcc.smartcatalogiq.com/en/2026-2027/college-catalog/programs-of-study/information-technology-artificialintelligence-a-a-s-degrees-a25590ai",
+     "as_of": "2026-11-10"
     }
    ],
    "grants": [],
@@ -4472,8 +4472,8 @@
      "award": "AAS/AS (associate)",
      "award_detail": "AAS",
      "status": "offered",
-     "source_url": "https://catalog.lccc.wy.edu/preview_program.php?catoid=12&poid=3007",
-     "as_of": "2026-10-08"
+     "source_url": "https://lccc.wy.edu/pathways/sciTechEngMath/artificialIntelligenceProgram/index.aspx",
+     "as_of": "2026-11-10"
     }
    ],
    "grants": [],
@@ -4512,8 +4512,8 @@
      "award": "AAS/AS (associate)",
      "award_detail": "AAS",
      "status": "offered",
-     "source_url": "https://www.cgc.edu/degrees-certificates/science-technology-engineering-and-mathematics/artificial-intelligence-and-machine-learning-3891-aas",
-     "as_of": "2026-10-08"
+     "source_url": "https://cgc.catalog.maricopa.edu/programs/3891-CGC08",
+     "as_of": "2026-11-10"
     },
     {
      "name": "Artificial Intelligence and Machine Learning (BS 9310)",
@@ -4587,8 +4587,8 @@
      "award": "Certificate",
      "award_detail": "Certificate of Proficiency",
      "status": "offered",
-     "source_url": "https://coursecatalog.nwacc.edu/preview_program.php?catoid=5&poid=1125",
-     "as_of": "2026-10-08"
+     "source_url": "https://nwacc.edu/workforce/certificate-of-proficiency-in-ai.html",
+     "as_of": "2026-11-10"
     }
    ],
    "grants": [],
@@ -6856,7 +6856,7 @@
    "award": "AAS",
    "fy": 2020,
    "fy_src": "https://www.maricopa.edu/news/2020/maricopa-community-colleges-intel-launch-first-artificial-intelligence-associate-degree-program",
-   "src": "https://www.cgc.edu/degrees-certificates/science-technology-engineering-and-mathematics/artificial-intelligence-and-machine-learning-3891-aas",
+   "src": "https://cgc.catalog.maricopa.edu/programs/3891-CGC08",
    "as_of": "2026-10-08",
    "conf": "high",
    "method": "launch_news"

@@ -12,6 +12,12 @@ The `site/` folder in this repo is build 5cc55868, which is the live build.
 
 ## Unreleased (in the repo, not yet live)
 
+- Map: 5 programs have new source links because their old pages had moved or weren't program pages. Mitchell's
+  A25590AI and Lanier Tech's AI and Automation certificate now link to their 2026-27 catalogs, and Chandler-Gilbert's
+  AAS 3891 to the Maricopa district catalog. Laramie County's AI AAS and NorthWest Arkansas's Certificate of Proficiency
+  now link to their program pages. Nothing else about the programs changes.
+- Map page: "Updated" moves to Nov 10, 2026.
+
 ## Nov 10, 2026
 
 ### 5cc55868: Atlantic Cape sourced to its catalog, data check for launched programs (current)
