@@ -8,10 +8,13 @@ build folder:
 cd site && find . -type f -print0 | LC_ALL=C sort -z | xargs -0 sha256sum | sha256sum
 ```
 
-The `site/` folder in this repo is build f48edf6b, which is the live build.
+The `site/` folder in this repo is build 5cc55868, which is the live build.
 
 ## Unreleased (in the repo, not yet live)
 
+## Nov 10, 2026
+
+### 5cc55868: Atlantic Cape sourced to its catalog, data check for launched programs (current)
 - Map: Atlantic Cape Community College's AI & Machine Learning option now shows as offered. Its source is the 2026-27
   catalog, which lists it as an option in the Computer Programming AAS starting Fall 2026. Its first AI courses (AIML)
   are scheduled for Spring 2027. The map still shows **94 colleges and 145 programs**.
@@ -21,7 +24,7 @@ The `site/` folder in this repo is build f48edf6b, which is the live build.
 
 ## Nov 5, 2026
 
-### f48edf6b: credential filter, 3 colleges off the map, confirmed programs (current)
+### f48edf6b: credential filter, 3 colleges off the map, confirmed programs
 - Map page: a credential filter shows colleges with a certificate, associate degree or bachelor's degree, including when it
   isn't their highest credential. It works with the state view and year slider, using each matching program's own start year.
   The map, college list and counts follow it, and a college's details mark which programs match. All dots take the selected
