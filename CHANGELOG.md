@@ -8,10 +8,13 @@ build folder:
 cd site && find . -type f -print0 | LC_ALL=C sort -z | xargs -0 sha256sum | sha256sum
 ```
 
-The `site/` folder in this repo is build 260603c3, which is the live build.
+The `site/` folder in this repo is build 8c4e8669, which is the live build.
 
 ## Unreleased (in the repo, not yet live)
 
+## Nov 11, 2026
+
+### 8c4e8669: Atlantic Cape and NWACC program names (current)
 - Map: 2 programs are renamed to match their sources. Atlantic Cape's is now "Computer Programming AAS, Artificial
   Intelligence & Machine Learning Option" (was "Associate Degree in Applied Science, Artificial Intelligence and Machine
   Learning"), in the map and the growth table. NorthWest Arkansas's is now "Certificate of Proficiency in Artificial
@@ -19,7 +22,7 @@ The `site/` folder in this repo is build 260603c3, which is the live build.
 
 ## Nov 10, 2026
 
-### 260603c3: 5 source links fixed, Lanier Tech's program name (current)
+### 260603c3: 5 source links fixed, Lanier Tech's program name
 - Map: 5 programs have new source links because their old pages had moved or weren't program pages. Mitchell's
   A25590AI and Lanier Tech's AI and Automation certificate now link to their 2026-27 catalogs, and Chandler-Gilbert's
   AAS 3891 to the Maricopa district catalog. Laramie County's AI AAS and NorthWest Arkansas's Certificate of Proficiency
