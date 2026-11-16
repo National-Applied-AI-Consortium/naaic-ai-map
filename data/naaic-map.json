@@ -25,6 +25,14 @@
      "status": "offered",
      "source_url": "https://www.azwestern.edu/degrees-and-certificates/occupational-certificate/artificial-intelligence-and-machine-learning",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Artificial Intelligence and Machine Learning Level-2 (CERT.AIMSP)",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.azwestern.edu/degrees-and-certificates/occupational-certificate/artificial-intelligence-and-machine-learning-0",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -315,6 +323,14 @@
      "status": "offered",
      "source_url": "https://catalog.gcccd.edu/grossmont/associate-degree-programs-certificates/stem/artificial-intelligence-as-cert-achievement/",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Applied Artificial Intelligence, Certificate of Proficiency",
+     "award": "Certificate",
+     "award_detail": "Certificate of Proficiency",
+     "status": "offered",
+     "source_url": "https://www.grossmont.edu/academics/programs/csis/ai.php",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -433,6 +449,14 @@
      "status": "offered",
      "source_url": "https://sac.edu/pio/press_release/250722_sac_introduces_ai_for_business_degree",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Artificial Intelligence, Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://sac.edu/division/business/bat/ai_for_business",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -634,6 +658,14 @@
      "status": "offered",
      "source_url": "https://catalog.broward.edu/technical-certificates/artificial-intelligence-practitioner-technical-certificate/",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Data Analytics & AI, Bachelor of Applied Science",
+     "award": "BAS/Bachelor's",
+     "award_detail": "BAS",
+     "status": "offered",
+     "source_url": "https://catalog.broward.edu/programs-study/data-analytics-ai-bas/",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [
@@ -1235,6 +1267,14 @@
      "status": "offered",
      "source_url": "https://laniertech.smartcatalogiq.com/en/2026-2027/catalog/programs-of-study/automation-technology/certificate-level-programs/artificial-intelligence-and-automation-certificate-program",
      "as_of": "2026-11-10"
+    },
+    {
+     "name": "Generative AI: Principles and Practice, Technical Certificate of Credit (GAP1)",
+     "award": "Certificate",
+     "award_detail": "Technical Certificate of Credit (TCC)",
+     "status": "offered",
+     "source_url": "https://laniertech.smartcatalogiq.com/en/2026-2027/catalog/programs-of-study/computer-information-systems/certificate-level-programs/generative-ai-principles-and-practice",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -2387,6 +2427,14 @@
      "status": "offered",
      "source_url": "https://abtech.edu/program/information-technology-artificial-intelligence-aas",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Information Technology: Artificial Intelligence Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://abtech.edu/program/information-technology-artificial-intelligence-certificate",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -2522,6 +2570,14 @@
      "status": "offered",
      "source_url": "https://catalog.davidsondavie.edu/preview_program.php?catoid=17&poid=3774&returnto=1689",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Information Technology A.A.S.: Cloud and Artificial Intelligence Technology",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS (pathway)",
+     "status": "offered",
+     "source_url": "https://www.davidsondavie.edu/academics/business-computers/information-technology/",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -2677,6 +2733,14 @@
      "status": "offered",
      "source_url": "https://www.isothermal.edu/academics/information-technology/index.html",
      "as_of": "2026-11-13"
+    },
+    {
+     "name": "Artificial Intelligence Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.isothermal.edu/academics/information-technology/index.html",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -2748,6 +2812,14 @@
      "status": "offered",
      "source_url": "https://mitchellcc.smartcatalogiq.com/en/2026-2027/college-catalog/programs-of-study/information-technology-artificialintelligence-a-a-s-degrees-a25590ai",
      "as_of": "2026-11-10"
+    },
+    {
+     "name": "Information Technology Certificate - Artificial Intelligence (C25590AI)",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://mitchellcc.smartcatalogiq.com/en/2026-2027/college-catalog/programs-of-study/information-technology-artificialintelligence-a-a-s-degrees-a25590ai",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -2844,6 +2916,22 @@
      "status": "offered",
      "source_url": "https://www.waynecc.edu/programs/ai/",
      "as_of": "2026-11-13"
+    },
+    {
+     "name": "AI Fundamentals Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.waynecc.edu/programs/ai/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Python Programming for AI Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.waynecc.edu/programs/ai/",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -2929,6 +3017,22 @@
      "status": "offered",
      "source_url": "https://bismarckstate.edu/academics/programs/basintelligent-machine-learning/",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Naval Artificial Intelligence and Machine Learning, AAS",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://catalog.bismarckstate.edu/catalog/degrees/career-technical-education/naval-artificial-intelligence-and-machine-learning/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Naval Artificial Intelligence and Machine Learning, Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://catalog.bismarckstate.edu/catalog/degrees/career-technical-education/naval-artificial-intelligence-and-machine-learning/",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -3148,6 +3252,14 @@
      "status": "offered",
      "source_url": "https://www.starkstate.edu/academics/explore-all-programs/artificial-intelligence-ai-fundamentals-certificate",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Computer Science & Engineering – AI and Machine Learning, AAS",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.starkstate.edu/academics/explore-all-programs/artificial-intelligence-ai-and-machine-learning/",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [
@@ -3515,6 +3627,14 @@
      "status": "offered",
      "source_url": "https://www.blinn.edu/academics/degree-certificates/ai-aas-in-business.html",
      "as_of": "2026-11-04"
+    },
+    {
+     "name": "Artificial Intelligence Level 2 Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate (Level 2)",
+     "status": "offered",
+     "source_url": "https://www.blinn.edu/artificial-intelligence/index.html",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -4567,6 +4687,14 @@
      "status": "offered",
      "source_url": "https://www.wctc.edu/WCTC/Community/AI-at-WCTC/AI-Academic-Programs/AI-Associates-Degrees-Certificates",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Foundations of AI",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.wctc.edu/WCTC/Academics/Program-List/Foundations-of-AI",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -4649,6 +4777,14 @@
      "status": "offered",
      "source_url": "https://www.cgc.edu/degrees-certificates/science-technology-engineering-and-mathematics/artificial-intelligence-and-machine-learning-9310-bs",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Artificial Intelligence and Machine Learning (CCL 5897)",
+     "award": "Certificate",
+     "award_detail": "Certificate of Completion (CCL)",
+     "status": "offered",
+     "source_url": "https://catalog.cgc.edu/educational-programs/physical-sciences-engineering/artificial-intelligence-machine-learning-ccl/",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -4744,6 +4880,14 @@
      "award_detail": "Certificate of Completion (CCL)",
      "status": "offered",
      "source_url": "https://www.estrellamountain.edu/degrees-certificates/science-technology-engineering-and-mathematics/artificial-intelligence-and-machine-learning-5897n-ccl",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Artificial Intelligence and Machine Learning (AAS 3891)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://estrellamountain.catalog.maricopa.edu/programs/3891-EMC10/program-overview-aoYks",
      "as_of": "2026-11-13"
     }
    ],
@@ -6688,46 +6832,46 @@
    "year": 2020,
    "us": 2,
    "tx": 1,
-   "unknown": "101"
+   "unknown": "119"
   },
   {
    "year": 2021,
    "us": 3,
    "tx": 1,
-   "unknown": "101"
+   "unknown": "119"
   },
   {
    "year": 2022,
    "us": 4,
    "tx": 1,
-   "unknown": "101"
+   "unknown": "119"
   },
   {
    "year": 2023,
    "us": 10,
    "tx": 2,
-   "unknown": "101"
+   "unknown": "119"
   },
   {
    "year": 2024,
    "us": 22,
    "tx": 2,
-   "unknown": "101"
+   "unknown": "119"
   },
   {
    "year": 2025,
    "us": 36,
    "tx": 6,
-   "unknown": "101"
+   "unknown": "119"
   },
   {
    "year": 2026,
    "us": 65,
    "tx": 17,
-   "unknown": "101"
+   "unknown": "119"
   }
  ],
- "growth_unknown_us": "101",
+ "growth_unknown_us": "119",
  "growth_progs": [
   {
    "unitid": "225423",
