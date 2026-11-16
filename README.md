@@ -14,7 +14,7 @@ The site has three public parts:
 - **Grants feed** (`site/feed.xml`): an RSS feed of the AI-related grants, newest first.
 
 Every program, grant, partnership and news item links to a public source and carries an "as of" date.
-Programs whose launch year still needs confirmation are left out of the published data. They are listed in
+Programs not yet confirmed as offered are left out of the published data. They are listed in
 `NEEDS-VERIFICATION.md`. `CHANGELOG.md` has the history of public builds.
 
 ## What is in this repo
@@ -36,7 +36,7 @@ Programs whose launch year still needs confirmation are left out of the publishe
 | `scripts/refresh_grants_nsf.py`, `scripts/common.py` | Pulls AI-related NSF awards to community colleges as candidates for review. |
 | `scripts/check_links.py` | Checks that every source link in the data still answers. |
 | `CHANGELOG.md` | Dated history of the map's public builds. |
-| `NEEDS-VERIFICATION.md` | Programs left off the map until their launch year is confirmed, and how to check them. |
+| `NEEDS-VERIFICATION.md` | Programs left off the map until a program page confirms them, and how to check them. |
 | `package.json`, `package-lock.json` | The three npm packages used to draw and project the base map. |
 | `.github/workflows/ci.yml` | The checks that run on every pull request. |
 | `LICENSE`, `THIRD-PARTY-NOTICES.md` | The MIT license for this repo, and the terms of the third-party material in it. |
