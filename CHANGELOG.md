@@ -12,6 +12,16 @@ The `site/` folder in this repo is build 8c4e8669, which is the live build.
 
 ## Unreleased (in the repo, not yet live)
 
+- Map: 19 of the 26 programs hidden since build 58c81b71 for an unconfirmed launch year are back, after a Nov 13, 2026
+  check of each program page. 11 colleges return to the map, and 6 colleges already on it gain a program. The map now
+  shows **105 colleges and 164 programs** (was 94 and 145). The restored programs show no launch year, so the note
+  under the growth table now counts 101 programs with no sourced launch year (was 82). The growth table's yearly
+  counts don't change.
+- Map: the restored programs link to their current program pages, and some names follow those pages.
+- `NEEDS-VERIFICATION.md` now lists the 7 rows still off the map and why. A program no longer needs a sourced launch
+  year to be on the map, only an official page showing it is offered.
+- Map page: "Updated" moves to Nov 16, 2026.
+
 ## Nov 11, 2026
 
 ### 8c4e8669: Atlantic Cape and NWACC program names (current)

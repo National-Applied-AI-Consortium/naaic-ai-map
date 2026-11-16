@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10",
+ "updated": "2026-11-16",
  "window": "2024-01-01",
  "inst": [
   {
@@ -728,6 +728,14 @@
      "status": "offered",
      "source_url": "https://www.fscj.edu/program?pcode=6116",
      "as_of": "2026-10-19"
+    },
+    {
+     "name": "Artificial Intelligence (AI) Practitioner (T.C.)",
+     "award": "Certificate",
+     "award_detail": "Technical Certificate",
+     "status": "offered",
+     "source_url": "https://www.fscj.edu/program?pCode=6118",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -1071,6 +1079,14 @@
      "status": "offered",
      "source_url": "https://pensacolastate.edu/academic-programs/aai-as/",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Artificial Intelligence Practitioner",
+     "award": "Certificate",
+     "award_detail": "College Credit Certificate",
+     "status": "offered",
+     "source_url": "https://pensacolastate.edu/academic-programs/aip-ct/",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -1124,10 +1140,19 @@
    "city": "Sanford",
    "state": "FL",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence Awareness (ARTINT-CC)",
+     "award": "Certificate",
+     "award_detail": "College Credit Certificate",
+     "status": "offered",
+     "source_url": "https://www.seminolestate.edu/catalog/programs/artint-cc",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     789.6,
     509.7
@@ -1235,6 +1260,14 @@
      "status": "offered",
      "source_url": "https://catalog.ccc.edu/academic-program-requirements/artificial-intelligence-and-machine-learning-development-aas/",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Artificial Intelligence and Machine Learning Development, Advanced Certificate",
+     "award": "Certificate",
+     "award_detail": "Advanced Certificate",
+     "status": "offered",
+     "source_url": "https://coe.ccc.edu/tech/students/artificial-intelligence/",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -1264,6 +1297,14 @@
      "status": "offered",
      "source_url": "https://catalog.cod.edu/programs-study/computer-information-science/artificial-intelligence-aas",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Machine Learning (CIS.CER.MLRN)",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://catalog.cod.edu/programs-study/computer-information-science/machine-learning-certificate/",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -1580,10 +1621,27 @@
    "city": "Fall River",
    "state": "MA",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Applied Artificial Intelligence",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.bristolcc.edu/learnatbristol/degreescertificatesandclasses/computerscience/artificialintelligence.html",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Artificial Intelligence Practitioner Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.bristolcc.edu/learnatbristol/degreescertificatesandclasses/computerscience/artificialintelligence.html",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     911.5,
     181.4
@@ -2611,14 +2669,23 @@
    "city": "Spindale",
    "state": "NC",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Information Technology – Artificial Intelligence",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.isothermal.edu/academics/information-technology/index.html",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [
     {
      "unitid": "135717"
     }
    ],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     755.6,
     363
@@ -2769,7 +2836,16 @@
    "city": "Goldsboro",
    "state": "NC",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence Engineer",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.waynecc.edu/programs/ai/",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [
     {
@@ -2796,7 +2872,7 @@
      "unitid": "199953"
     }
    ],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     827,
     349.2
@@ -3128,10 +3204,19 @@
    "city": "Midwest City",
    "state": "OK",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence & Machine Learning Technologies",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AS",
+     "status": "offered",
+     "source_url": "https://rose.edu/program/artificial-intelligence-machine-learning-technologies/",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     472.1,
     379.4
@@ -3178,10 +3263,27 @@
    "city": "Media",
    "state": "PA",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence (AI) Foundations (AIF)",
+     "award": "Certificate",
+     "award_detail": "Certificate of Competency",
+     "status": "offered",
+     "source_url": "https://www.dccc.edu/program/artificial-intelligence-ai-foundations-certificate-of-competency-aif/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Artificial Intelligence (AI) Specialist (AIS)",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://catalog.dccc.edu/academic-programs/programs-study/artificial-intelligence-ai-specialist-certificate/",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     850.3,
     237.7
@@ -3721,6 +3823,14 @@
      "status": "offered",
      "source_url": "https://www.lonestar.edu/departments/admissions/C2_AIML.pdf",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Artificial Intelligence & Machine Learning (AAS)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.lonestar.edu/programs-of-study/ai-machine-learning",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -4208,6 +4318,14 @@
      "status": "offered",
      "source_url": "https://catalog.bellevuecollege.edu/preview_program.php?catoid=16&poid=5095",
      "as_of": "2026-10-08"
+    },
+    {
+     "name": "Software Development, BAS, Artificial Intelligence Concentration",
+     "award": "BAS/Bachelor's",
+     "award_detail": "BAS (AI concentration)",
+     "status": "offered",
+     "source_url": "https://www.bellevuecollege.edu/academics/undergraduate-programs/software-development-artificial-intelligence-concentration-bas/",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -4234,7 +4352,16 @@
    "city": "Lynnwood",
    "state": "WA",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Robotics & Artificial Intelligence",
+     "award": "BAS/Bachelor's",
+     "award_detail": "BAS",
+     "status": "offered",
+     "source_url": "https://www.edmonds.edu/programs-and-degrees/bachelor-degrees/bachelor-of-applied-science-degrees/robotics-and-artificial-intelligence/",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [
     {
@@ -4246,7 +4373,7 @@
      "unitid": null
     }
    ],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     99,
     41.8
@@ -4610,7 +4737,16 @@
    "city": "Avondale",
    "state": "AZ",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence and Machine Learning (CCL 5897)",
+     "award": "Certificate",
+     "award_detail": "Certificate of Completion (CCL)",
+     "status": "offered",
+     "source_url": "https://www.estrellamountain.edu/degrees-certificates/science-technology-engineering-and-mathematics/artificial-intelligence-and-machine-learning-5897n-ccl",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [
     {
@@ -4630,7 +4766,7 @@
      "unitid": null
     }
    ],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     192.4,
     398.2
@@ -4685,12 +4821,21 @@
    "city": "San Antonio",
    "state": "TX",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence Specialist Occupational Skills Award",
+     "award": "Certificate",
+     "award_detail": "OSA",
+     "status": "offered",
+     "source_url": "https://www.alamo.edu/nvc/academics/programs/comp-sci-tech/data-science-and-ai/",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [
     "r-3"
    ],
    "partners": [],
-   "kind": "grant",
+   "kind": "prog",
    "xy": [
     444.6,
     515.1
@@ -4703,10 +4848,19 @@
    "city": "Baltimore",
    "state": "MD",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence, Associate of Science",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AS",
+     "status": "offered",
+     "source_url": "https://www.ccbcmd.edu/Programs-and-Courses-Finder/Program/artificial-intelligence.html",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     834.9,
     255.4
@@ -4798,10 +4952,19 @@
    "city": "Nampa",
    "state": "ID",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence and Cloud Computing (AICC.AAS)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://cwi.edu/academics/career-technical-education/artificial-intelligence-cloud-computing",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     165.2,
     156.6
@@ -6525,46 +6688,46 @@
    "year": 2020,
    "us": 2,
    "tx": 1,
-   "unknown": "82"
+   "unknown": "101"
   },
   {
    "year": 2021,
    "us": 3,
    "tx": 1,
-   "unknown": "82"
+   "unknown": "101"
   },
   {
    "year": 2022,
    "us": 4,
    "tx": 1,
-   "unknown": "82"
+   "unknown": "101"
   },
   {
    "year": 2023,
    "us": 10,
    "tx": 2,
-   "unknown": "82"
+   "unknown": "101"
   },
   {
    "year": 2024,
    "us": 22,
    "tx": 2,
-   "unknown": "82"
+   "unknown": "101"
   },
   {
    "year": 2025,
    "us": 36,
    "tx": 6,
-   "unknown": "82"
+   "unknown": "101"
   },
   {
    "year": 2026,
    "us": 65,
    "tx": 17,
-   "unknown": "82"
+   "unknown": "101"
   }
  ],
- "growth_unknown_us": "82",
+ "growth_unknown_us": "101",
  "growth_progs": [
   {
    "unitid": "225423",

@@ -1,61 +1,24 @@
 # Programs that need verification
 
-Since build 58c81b71 (Nov 2, 2026; first published in 62353ad9), the public map leaves out any AI program whose
-**launch year** has not been confirmed from a public source. These programs are real and each has a source page for
-the program itself. What is missing is solid evidence of the year the program started: the year shown rested only on
-news coverage, an approval date (board, state or curriculum), the first catalog year it appears in, or a first-term
-mention.
+From build 58c81b71 (Nov 2, 2026) the public map left out any AI program whose **launch year** had not been
+confirmed from a public source. That hid 26 program rows. Since Nov 16, 2026, a program with an unknown launch year
+is back on the map once its official program page shows the college offers it. It shows no launch year and is
+counted in the note under the growth table.
 
-In total, 26 program rows were hidden: 17 at the 14 colleges that left the map, 8 at 7 colleges that stay on the map,
-and 1 at a university (Texas Tech) that was never a map dot. None of these rows are in `data/naaic-map.json` or
-`site/index.html`. They are listed here so they can be checked and added back.
+A check of each program page on Nov 13, 2026 confirmed 19 of the 26 rows, and they are back on the map. The 7 rows
+below are still off. None of them are in `data/naaic-map.json` or `site/index.html`.
 
-"Year shown" is the launch year the map used before the rows were hidden.
+## Still off the map (7 rows)
 
-## Colleges taken off the map (14)
-
-These colleges had no other confirmed AI program, so they left the map (110 colleges became 96).
-
-| # | College | Program | Year shown | Why it needs confirmation | Program source |
-|---|---|---|---|---|---|
-| 1 | Northwest Vista College, San Antonio, TX | Data Science and Artificial Intelligence A.A.S. | 2026 | Only the first catalog year it appears in | https://mynvccatalog.alamo.edu/preview_program.php?catoid=295&poid=56781 |
-| | | Artificial Intelligence Specialist Occupational Skills Award | 2026 | Only the first catalog year it appears in | https://mynvccatalog.alamo.edu/preview_program.php?catoid=295&poid=56772 |
-| 2 | Estrella Mountain Community College, Avondale, AZ | Artificial Intelligence and Machine Learning (CCL 5897N) | 2020 | News coverage only | https://www.estrellamountain.edu/degrees-certificates/science-technology-engineering-and-mathematics/artificial-intelligence-and-machine-learning-5897n-ccl |
-| 3 | Wayne Community College, Goldsboro, NC | Artificial Intelligence Engineer (AAS) | 2021 | Only the state approval year | https://www.waynecc.edu/programs/ai/ |
-| 4 | Ocean County College, Toms River, NJ | Artificial Intelligence Certificate | 2021 | Only the board approval year | https://www.ocean.edu/area-of-study/artificial-intelligence-al |
-| 5 | Rose State College, Midwest City, OK | Associate of Science in Artificial Intelligence/Machine Learning | 2024 | Only the state approval year | https://rose.edu/program/artificial-intelligence-machine-learning-technologies/ |
-| 6 | Bristol Community College, Fall River, MA | Associate of Applied Science in Artificial Intelligence | 2025 | News coverage only | https://bristolcc.edu/AI |
-| | | Artificial Intelligence Practitioner Certificate | 2025 | News coverage only | https://catalog.bristolcc.edu/applied-artificial-intelligence/artificial-intelligence-practitioner-certificate |
-| 7 | Community College of Baltimore County, Baltimore, MD | Artificial Intelligence, Associate of Science | 2025 | News coverage only | https://www.ccbcmd.edu/Programs-and-Courses-Finder/Program/artificial-intelligence.html |
-| 8 | Isothermal Community College, Spindale, NC | Applied Science degree in Artificial Intelligence | 2026 | News coverage only | https://www.naaic.ai/post/from-mentorship-to-momentum-a-look-at-naaics-2025-2026-institutional-mentorship-program |
-| 9 | Seminole State College of Florida, Sanford, FL | Artificial Intelligence Awareness (ARTINT-CC) | 2025 | Only a first-term mention | https://www.seminolestate.edu/catalog/programs/artint-cc |
-| 10 | Edmonds College, Lynnwood, WA | Robotics and Artificial Intelligence (AETRABAS) | 2024 | News coverage only | https://catalog.edmonds.edu/preview_program.php?catoid=68&poid=18091&print |
-| 11 | Mississippi Gulf Coast Community College, Perkinston, MS | Artificial Intelligence and Data Technology | 2025 | Only a first-term mention | https://catalog.mgccc.edu/preview_program.php?catoid=32&poid=6174&returnto=3166 |
-| 12 | UCNJ Union College of Union County, New Jersey, Cranford, NJ | Artificial Intelligence | 2025 | Only the board approval year | http://onlinecatalog.ucc.edu/preview_program.php?catoid=13&poid=1810 |
-| 13 | College of Western Idaho, Nampa, ID | Artificial Intelligence and Cloud Computing (AICC.AAS) | 2024 | Only the curriculum approval year | https://catalog.cwi.edu/programs-study/artificial-intelligence/aicc-aas/ |
-| 14 | Delaware County Community College, Media, PA | AI Foundations (AIF) | 2025 | Only a first-term mention | https://www.dccc.edu/ai-programs |
-| | | AI Specialist (AIS) | 2025 | Only a first-term mention | https://www.dccc.edu/ai-programs |
-
-## Colleges still on the map with some programs hidden (7)
-
-These colleges stay on the map because they have at least one other confirmed AI program. Only the rows below are hidden.
-
-| # | College | Hidden program | Year shown | Why it needs confirmation | Program source |
-|---|---|---|---|---|---|
-| 1 | Lone Star College System, The Woodlands, TX | Artificial Intelligence & Machine Learning | 2024 | News coverage only | https://www.lonestar.edu/programs-of-study/ai-machine-learning.htm |
-| 2 | City Colleges of Chicago-Wilbur Wright College, Chicago, IL | Artificial Intelligence and Machine Learning Development, Advanced Certificate | 2026 | Only the board approval year | https://catalog.ccc.edu/academic-program-requirements/artificial-intelligence-machine-learning-development-advanced-certificate/ |
-| 3 | Florida State College at Jacksonville, Jacksonville, FL | Artificial Intelligence (AI) Practitioner (T.C.) | 2026 | Only the board approval year | https://www.fscj.edu/program?pCode=6118 |
-| 4 | Bellevue College, Bellevue, WA | Software Development, BAS, Artificial Intelligence Concentration | 2022 | News coverage only | https://www.bellevuecollege.edu/academics/undergraduate-programs/software-development-artificial-intelligence-concentration-bas |
-| 5 | Daytona State College, Daytona Beach, FL | Artificial Intelligence and Data Analytics | 2026 | Only the board approval year | https://www.daytonastate.edu/academic-departments/college-of-business-engineering-and-technology/school-of-computer-science/ai-data-analytics-atc.html |
-| | | Artificial Intelligence Awareness | 2026 | Only the board approval year | https://www.daytonastate.edu/academic-departments/college-of-business-engineering-and-technology/school-of-computer-science/ai-awareness-as-certificate.html |
-| 6 | Pensacola State College, Pensacola, FL | Artificial Intelligence Practitioner | 2026 | Only the board approval year | https://catalog.pensacolastate.edu/preview_program.php?catoid=2&poid=933&returnto=55 |
-| 7 | College of DuPage, Glen Ellyn, IL | Machine Learning (CIS.CER.MLRN) | 2025 | News coverage only | https://catalog.cod.edu/programs-study/computer-information-science/machine-learning-certificate |
-
-## Also hidden, but never a map dot
-
-- **Texas Tech University**, Lubbock, TX: Online Bachelor of Science in Human-Centered Artificial Intelligence (year
-  shown 2025, launch news only). https://www.depts.ttu.edu/online/programs/bachelors/human-centered-ai/
-  It is a university, so it was never one of the 110 college dots. Its row only counted toward the growth table.
+| # | College | Program | Why it is still off | Program source |
+|---|---|---|---|---|
+| 1 | Northwest Vista College, San Antonio, TX | Data Science and Artificial Intelligence A.A.S. | Not confirmed in the Nov 13 check. The college's AI Specialist award is back on the map. | https://mynvccatalog.alamo.edu/preview_program.php?catoid=295&poid=56781 |
+| 2 | Ocean County College, Toms River, NJ | Artificial Intelligence Certificate | The Nov 13 check found that the Computer Science AS page no longer lists an AI option. | https://www.ocean.edu/area-of-study/artificial-intelligence-al |
+| 3 | Mississippi Gulf Coast Community College, Perkinston, MS | Artificial Intelligence and Data Technology | The Nov 13 check found only the college's noncredit AI courses. | https://catalog.mgccc.edu/preview_program.php?catoid=32&poid=6174&returnto=3166 |
+| 4 | UCNJ Union College of Union County, New Jersey, Cranford, NJ | Artificial Intelligence | Not in the Nov 13 check. | http://onlinecatalog.ucc.edu/preview_program.php?catoid=13&poid=1810 |
+| 5 | Daytona State College, Daytona Beach, FL | Artificial Intelligence and Data Analytics (ATC) | Not in the Nov 13 check. The college's AS is on the map. | https://www.daytonastate.edu/academic-departments/college-of-business-engineering-and-technology/school-of-computer-science/ai-data-analytics-atc.html |
+| | | Artificial Intelligence Awareness | Not in the Nov 13 check. | https://www.daytonastate.edu/academic-departments/college-of-business-engineering-and-technology/school-of-computer-science/ai-awareness-as-certificate.html |
+| 6 | Texas Tech University, Lubbock, TX | Online Bachelor of Science in Human-Centered Artificial Intelligence | A university, so never a map dot. Its row only counted toward the growth table. | https://www.depts.ttu.edu/online/programs/bachelors/human-centered-ai/ |
 
 ## Left off the map by decision (not a data problem)
 
@@ -88,14 +51,14 @@ Moorpark College stays in the Grants tab.
 
 ## How to verify a row and add it back
 
-1. Open the program source above and confirm the program is still offered (or announced) under that name.
-2. Find a public source that gives the **first year the program was offered**: the earliest college catalog that
-   lists it (checked against the catalog year before it, so it is the first listing and not only the newest catalog
-   online), a class schedule or college page naming the first term students enrolled, or an official college
-   announcement that it started enrolling. An approval date, a news story or a single current catalog is not enough.
-3. Record that source and the year in the program's growth row (`growth_progs` in `data/naaic-map.json`, with
-   `conf: "high"`, `fy`, `fy_src` and `as_of`), and add the program to the college's `programs` list. For a college
-   that left the map, set its `kind` back to `prog`.
-4. Run `python3 scripts/site_data.py growth` (updates the yearly counts in the growth table), then
+1. Open the program source above and confirm the college offers the program now, under that name. An approval, an
+   announcement or a news story is not enough.
+2. Add the program to the college's `programs` list in `data/naaic-map.json`, with `status: "offered"`, the program
+   page as `source_url`, and `as_of`. For a college that left the map, set its `kind` back to `prog`.
+3. If a public source gives the **first year the program was offered** (the earliest catalog that lists it, a class
+   schedule or college page naming the first term, or an official announcement that it started enrolling), also add
+   a growth row (`growth_progs`, with `conf: "high"`, `fy`, `fy_src` and `as_of`). Without one, the program shows no
+   launch year.
+4. Run `python3 scripts/site_data.py growth` (updates the growth table counts and its note), then
    `python3 scripts/site_data.py embed` and `python3 scripts/site_data.py check`, and look at the map locally.
 5. Remove the row from this file.
