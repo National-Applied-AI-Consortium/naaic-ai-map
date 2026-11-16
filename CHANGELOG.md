@@ -20,6 +20,11 @@ The `site/` folder in this repo is build 8c4e8669, which is the live build.
 - Map: the restored programs link to their current program pages, and some names follow those pages.
 - `NEEDS-VERIFICATION.md` now lists the 7 rows still off the map and why. A program no longer needs a sourced launch
   year to be on the map, only an official page showing it is offered.
+- Map: 18 more programs at 16 colleges already on the map, from the same Nov 13 check: 1 bachelor's (Broward's Data
+  Analytics & AI BAS), 4 associate degrees or AI tracks, and 13 certificates. The map now shows **105 colleges and 182
+  programs**. 4 colleges move up a credential type in the map filter: Broward (to bachelor's), and Davidson-Davie,
+  Estrella Mountain and Stark State (to associate). The new programs show no launch year, so the note under the
+  growth table now counts 119.
 - Map page: "Updated" moves to Nov 16, 2026.
 
 ## Nov 11, 2026
