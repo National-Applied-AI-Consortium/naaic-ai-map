@@ -20,6 +20,24 @@ below are still off. None of them are in `data/naaic-map.json` or `site/index.ht
 | | | Artificial Intelligence Awareness | Not in the Nov 13 check. | https://www.daytonastate.edu/academic-departments/college-of-business-engineering-and-technology/school-of-computer-science/ai-awareness-as-certificate.html |
 | 6 | Texas Tech University, Lubbock, TX | Online Bachelor of Science in Human-Centered Artificial Intelligence | A university, so never a map dot. Its row only counted toward the growth table. | https://www.depts.ttu.edu/online/programs/bachelors/human-centered-ai/ |
 
+## New colleges from the Nov 13 check, not added yet (10)
+
+The Nov 13, 2026 check found these programs at colleges that are not on the map. Each waits for a program page that
+shows the college offers it now.
+
+| # | College | Program | Why it waits | Current source |
+|---|---|---|---|---|
+| 1 | Black River Technical College, Pocahontas, AR | Technical Certificate in Artificial Intelligence for Business | Starts spring 2027. Source is TV news. | https://www.kjnbtv.com/news/education/brtc-launches-new-ai-certificate-focused-on-practical-workplace-skills/article_981a1ae7-e7b8-4b8a-a747-425a56878234.html |
+| 2 | University of Arkansas Hope-Texarkana, Hope, AR | Certificate of Proficiency in Artificial Intelligence | Source is a college news item, not a program page. | https://uaht.edu/news/new-ai-program.php |
+| 3 | Saddleback College, Mission Viejo, CA | Artificial Intelligence (AI) Foundations certificate | Planned for 2027. Source is a committee agenda. | https://www.saddleback.edu/sites/default/files/2026-02/2-24-26_cc_agenda.pdf |
+| 4 | Long Beach City College, Long Beach, CA | AI Certificate of Accomplishment | The check did not record the certificate's name. | https://programmap.lbcc.edu/program/ai-literacy-2/ |
+| 5 | West Los Angeles College, Culver City, CA | Artificial Intelligence, Data Science & Machine Learning, Certificate of Achievement | Source is a general data science page. The college's other AI certificate is on the map. | https://www.wlac.edu/academics/aos/data-science |
+| 6 | Central Georgia Technical College, Warner Robins, GA | AI certificate (credit) | Source is a news release. | https://www.centralgatech.edu/cgtc-is-rolling-out-a-new-ai-certificate |
+| 7 | Southeast Community College, Lincoln, NE | AI in Business certificate | Announced for fall 2026. Source is a news release. | https://www.southeast.edu/about/news/2026-spring-enrollment-new-programs.php |
+| 8 | Nash Community College, Rocky Mount, NC | Artificial Intelligence Engineer AAS, with Wayne Community College | Source is a Wayne news release, not a Nash program page. | https://www.waynecc.edu/news/wcc-extends-ai-degree-to-nash-community-college-students/ |
+| 9 | Wilson Community College, Wilson, NC | Artificial Intelligence Engineer AAS, with Wayne Community College | Source is a Wayne news release, not a Wilson program page. | https://www.waynecc.edu/news/wayne-wilson-community-colleges-partner-for-ai-biotechnology-programs/ |
+| 10 | Spokane Falls Community College, Spokane, WA | Yearlong AI certificate | Source is a news article. | https://www.govtech.com/education/higher-ed/spokane-falls-ccs-new-ai-certificate-focuses-on-cybersecurity-health |
+
 ## Left off the map by decision (not a data problem)
 
 - **Bridgerland Technical College**, Logan, UT, is a less-than-2-year technical college. It is kept off the map by

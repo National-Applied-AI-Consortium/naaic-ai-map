@@ -3,6 +3,31 @@
  "window": "2024-01-01",
  "inst": [
   {
+   "id": "101295",
+   "name": "Wallace State Community College",
+   "type": "Community/technical college",
+   "city": "Hanceville",
+   "state": "AL",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Computer Science – Artificial Intelligence Programming, Short-Term Certificate",
+     "award": "Certificate",
+     "award_detail": "Short-Term Certificate",
+     "status": "offered",
+     "source_url": "https://wallacestate.cleancatalog.net/computer-science/computer-science-artificial-intelligence-programming",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    669.7,
+    402.7
+   ]
+  },
+  {
    "id": "104160",
    "name": "Arizona Western College",
    "type": "Community/technical college",
@@ -113,7 +138,16 @@
    "city": "Prescott",
    "state": "AZ",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence and Machine Learning Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://catalog.yc.edu/preview_program.php?catoid=29&poid=9413",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [
     "r-5"
    ],
@@ -127,10 +161,93 @@
      "unitid": null
     }
    ],
-   "kind": "grant",
+   "kind": "prog",
    "xy": [
     194.5,
     373.8
+   ]
+  },
+  {
+   "id": "107327",
+   "name": "Arkansas Northeastern College",
+   "type": "Community/technical college",
+   "city": "Blytheville",
+   "state": "AR",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Technical Certificate in Data & AI Technologies",
+     "award": "Certificate",
+     "award_detail": "Technical Certificate",
+     "status": "offered",
+     "source_url": "https://www.anc.edu/allied-technologies",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    608.7,
+    365.7
+   ]
+  },
+  {
+   "id": "111887",
+   "name": "Cerritos College",
+   "type": "Community/technical college",
+   "city": "Norwalk",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Applied Artificial Intelligence Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://cerritos-public.courseleaf.com/degrees-certificates-courses/degrees-certificates-programs-majors/applied-artificial-intelligence-cert/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    88.6,
+    367.4
+   ]
+  },
+  {
+   "id": "111939",
+   "name": "Chaffey College",
+   "type": "Community/technical college",
+   "city": "Rancho Cucamonga",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence, Associate Degree",
+     "award": "AAS/AS (associate)",
+     "award_detail": "Associate Degree",
+     "status": "offered",
+     "source_url": "https://programmap.chaffey.edu/program/artificial-intelligence/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Artificial Intelligence Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://programmap.chaffey.edu/program/artificial-intelligence-2/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    99.5,
+    363.8
    ]
   },
   {
@@ -156,6 +273,31 @@
    "xy": [
     90.8,
     372
+   ]
+  },
+  {
+   "id": "113236",
+   "name": "Cypress College",
+   "type": "Community college (bacc-granting)",
+   "city": "Cypress",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence (AI) Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://programmap.cypresscollege.edu/program/artificial-intelligence-ai/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    89.6,
+    369
    ]
   },
   {
@@ -212,6 +354,39 @@
    ]
   },
   {
+   "id": "114266",
+   "name": "Evergreen Valley College",
+   "type": "Community/technical college",
+   "city": "San Jose",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Generative AI Application Development, Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://www.evc.edu/academics/ai/index.html",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Generative AI Entrepreneurship, Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://www.evc.edu/academics/ai/index.html",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    43.1,
+    275
+   ]
+  },
+  {
    "id": "114716",
    "name": "Foothill College",
    "type": "Community/technical college",
@@ -251,6 +426,31 @@
    "xy": [
     37.3,
     272
+   ]
+  },
+  {
+   "id": "114789",
+   "name": "Fresno City College",
+   "type": "Community/technical college",
+   "city": "Fresno",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence for Business Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://fresno.curriqunet.com/report/program/getreport/2818?reportId=364",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    74.1,
+    295.9
    ]
   },
   {
@@ -342,6 +542,105 @@
    ]
   },
   {
+   "id": "117247",
+   "name": "Laney College",
+   "type": "Community/technical college",
+   "city": "Oakland",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Applied Generative AI, Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://laney.edu/ai",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Deep Learning, Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://laney.edu/ai",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Natural Language Processing, Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://laney.edu/ai",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    37.7,
+    261.7
+   ]
+  },
+  {
+   "id": "118718",
+   "name": "Merced College",
+   "type": "Community/technical college",
+   "city": "Merced",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Applied Computer AI Systems Professional Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://catalog.mccd.edu/schools/programs/school-stem/programs/applied-computer-ai-systems-professional-cm",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    65.6,
+    280.3
+   ]
+  },
+  {
+   "id": "118912",
+   "name": "MiraCosta College",
+   "type": "Community college (bacc-granting)",
+   "city": "Oceanside",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Associate in Science in Artificial Intelligence",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AS",
+     "status": "offered",
+     "source_url": "https://programmap.miracosta.edu/program/artificial-intelligence/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Artificial Intelligence Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://programmap.miracosta.edu/program/artificial-intelligence-2/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    99.5,
+    386.3
+   ]
+  },
+  {
    "id": "118930",
    "name": "Mission College",
    "type": "Community/technical college",
@@ -381,6 +680,31 @@
    "xy": [
     40,
     272
+   ]
+  },
+  {
+   "id": "119067",
+   "name": "Monterey Peninsula College",
+   "type": "Community/technical college",
+   "city": "Monterey",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Applied Artificial Intelligence, Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://catalog.mpc.edu/programs-study/computer-science/applied-ai-coa/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    36.7,
+    290.1
    ]
   },
   {
@@ -541,7 +865,24 @@
    "city": "San Bernardino",
    "state": "CA",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Associate of Science in Applied Artificial Intelligence",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AS",
+     "status": "offered",
+     "source_url": "https://catalog.valleycollege.edu/degree-certificate-program-index/computer-science/applied-ai-as-degree/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Artificial Intelligence Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://catalog.valleycollege.edu/degree-certificate-program-index/computer-science/ai-certificate-achievement/",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [
     "r-2556243"
    ],
@@ -555,10 +896,60 @@
      "unitid": null
     }
    ],
-   "kind": "grant",
+   "kind": "prog",
    "xy": [
     103.9,
     366.3
+   ]
+  },
+  {
+   "id": "125028",
+   "name": "Ventura College",
+   "type": "Community/technical college",
+   "city": "Ventura",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Data Science and Artificial Intelligence, Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://catalog.vcccd.edu/ventura/programs-courses/computer-science/data-science-and-artificial-intelligence-coa/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    70.2,
+    353.8
+   ]
+  },
+  {
+   "id": "125471",
+   "name": "West Los Angeles College",
+   "type": "Community college (bacc-granting)",
+   "city": "Culver City",
+   "state": "CA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "AI-Powered Web and Data Management, Certificate of Achievement",
+     "award": "Certificate",
+     "award_detail": "Certificate of Achievement",
+     "status": "offered",
+     "source_url": "https://programmap.wlac.edu/program/data-analytics",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    84,
+    363.6
    ]
   },
   {
@@ -633,6 +1024,31 @@
    "xy": [
     848.5,
     244.8
+   ]
+  },
+  {
+   "id": "132693",
+   "name": "Eastern Florida State College",
+   "type": "Community college (bacc-granting)",
+   "city": "Melbourne",
+   "state": "FL",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Computer Information Technology A.S., Artificial Intelligence Specialization",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AS (AI specialization)",
+     "status": "offered",
+     "source_url": "https://catalog.easternflorida.edu/degrees-certificates/career-technical/associate-science-as/computer-information-technology/artificial-intelligence-specialization-computer-information-technology-associate-science/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    804.3,
+    520.6
    ]
   },
   {
@@ -879,6 +1295,31 @@
    "xy": [
     779.7,
     509.3
+   ]
+  },
+  {
+   "id": "135391",
+   "name": "State College of Florida, Manatee–Sarasota",
+   "type": "Community college (bacc-granting)",
+   "city": "Bradenton",
+   "state": "FL",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence Awareness Certificate",
+     "award": "Certificate",
+     "award_detail": "College Credit Certificate",
+     "status": "offered",
+     "source_url": "https://www.scf.edu/programs/artificial-intelligence-awareness-3047/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    768.5,
+    542.7
    ]
   },
   {
@@ -1136,12 +1577,21 @@
    "city": "St. Petersburg",
    "state": "FL",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence Responsible Use Practitioner Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.spcollege.edu/future-students/degrees-training/technology/data-science/artificial-intelligence-responsible-use-practitioner-certificate",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [
     "r-0"
    ],
    "partners": [],
-   "kind": "grant",
+   "kind": "prog",
    "xy": [
     766.5,
     535.4
@@ -1253,6 +1703,89 @@
    ]
   },
   {
+   "id": "138956",
+   "name": "Augusta Technical College",
+   "type": "Community/technical college",
+   "city": "Augusta",
+   "state": "GA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Data Analytics with AI Integration, Technical Certificate of Credit",
+     "award": "Certificate",
+     "award_detail": "Technical Certificate of Credit (TCC)",
+     "status": "offered",
+     "source_url": "https://www.augustatech.edu/academics/technical-certificates-of-credit.cms",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    759.5,
+    406.7
+   ]
+  },
+  {
+   "id": "139278",
+   "name": "West Georgia Technical College",
+   "type": "Community/technical college",
+   "city": "Waco",
+   "state": "GA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Generative AI: Principles and Practice, Technical Certificate of Credit (GAP1)",
+     "award": "Certificate",
+     "award_detail": "Technical Certificate of Credit (TCC)",
+     "status": "offered",
+     "source_url": "https://www.westgatech.edu/program-explorer/systems-information-management/artificial-intelligence/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Data Analytics with AI Integration, Technical Certificate of Credit",
+     "award": "Certificate",
+     "award_detail": "Technical Certificate of Credit (TCC)",
+     "status": "offered",
+     "source_url": "https://www.westgatech.edu/program-explorer/systems-information-management/artificial-intelligence/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    700.3,
+    408.2
+   ]
+  },
+  {
+   "id": "139384",
+   "name": "Georgia Northwestern Technical College",
+   "type": "Community/technical college",
+   "city": "Rome",
+   "state": "GA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Generative AI: Principles and Practice, Technical Certificate of Credit (GAP1)",
+     "award": "Certificate",
+     "award_detail": "Technical Certificate of Credit (TCC)",
+     "status": "offered",
+     "source_url": "https://gntc.smartcatalogiq.com/en/2026-2027/semester-catalog/programs-of-study-business-and-cyber-related-technologies/generative-ai-principles-and-practice",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    699.2,
+    396
+   ]
+  },
+  {
    "id": "140243",
    "name": "Lanier Technical College",
    "type": "Community/technical college",
@@ -1283,6 +1816,31 @@
    "xy": [
     724.6,
     390.5
+   ]
+  },
+  {
+   "id": "141839",
+   "name": "University of Hawaiʻi Maui College",
+   "type": "Community college (bacc-granting)",
+   "city": "Kahului",
+   "state": "HI",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Applied Business and Information Technology (ABIT) BAS, AI/Machine Learning Focus Area",
+     "award": "BAS/Bachelor's",
+     "award_detail": "BAS (AI focus area)",
+     "status": "offered",
+     "source_url": "https://maui.hawaii.edu/programs/abit",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    296.4,
+    558.6
    ]
   },
   {
@@ -1320,6 +1878,31 @@
    "xy": [
     635.4,
     224.5
+   ]
+  },
+  {
+   "id": "144564",
+   "name": "Danville Area Community College",
+   "type": "Community/technical college",
+   "city": "Danville",
+   "state": "IL",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Healthcare AI Governance and Information Security Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://dacc.edu/depts/hit/healthcare-ai-governance",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    642.5,
+    265.9
    ]
   },
   {
@@ -1391,6 +1974,64 @@
    "xy": [
     608.4,
     255.3
+   ]
+  },
+  {
+   "id": "146296",
+   "name": "Joliet Junior College",
+   "type": "Community/technical college",
+   "city": "Joliet",
+   "state": "IL",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "AI and Cloud-Based Networks & IT Infrastructure, AAS",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://jjc.edu/choose-your-path/business-finance-information-technology/ai-and-cloud-based-networks-it-infrast",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    629.7,
+    235.5
+   ]
+  },
+  {
+   "id": "147004",
+   "name": "McHenry County College",
+   "type": "Community/technical college",
+   "city": "Crystal Lake",
+   "state": "IL",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "iOS Development with Integrated AI Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.mchenry.edu/ios/index.html",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Android Development with Integrated AI Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.mchenry.edu/android/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    625.2,
+    218.5
    ]
   },
   {
@@ -1585,6 +2226,64 @@
    ]
   },
   {
+   "id": "153311",
+   "name": "Eastern Iowa Community Colleges",
+   "type": "Community/technical college",
+   "city": "Davenport",
+   "state": "IA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Information Technology – Artificial Intelligence Programmer, AAS",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://eicc.edu/classes-programs/pathway/information-solutions/ai-programming/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Information Technology – Artificial Intelligence Programmer, Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://eicc.edu/classes-programs/pathway/information-solutions/ai-programming/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    589.4,
+    237.8
+   ]
+  },
+  {
+   "id": "154800",
+   "name": "Butler Community College",
+   "type": "Community/technical college",
+   "city": "El Dorado",
+   "state": "KS",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Software Development AAS, AI Emphasis",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS (AI emphasis)",
+     "status": "offered",
+     "source_url": "https://butlercc.edu/academics/career-workforce-education/ai-edge",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    482.3,
+    325.4
+   ]
+  },
+  {
    "id": "157854",
    "name": "Kentucky Community and Technical College System",
    "type": "Community college system",
@@ -1600,6 +2299,39 @@
    "xy": [
     697,
     307.9
+   ]
+  },
+  {
+   "id": "160579",
+   "name": "Sowela Technical Community College",
+   "type": "Community/technical college",
+   "city": "Lake Charles",
+   "state": "LA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Data Science, Analytics, and Artificial Intelligence, AAS",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.sowela.edu/programs/bat/data-science-ai/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Data Science, Analytics, and Artificial Intelligence, Technical Diploma",
+     "award": "Certificate",
+     "award_detail": "Diploma",
+     "status": "offered",
+     "source_url": "https://www.sowela.edu/programs/bat/data-science-ai/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    553.6,
+    498.1
    ]
   },
   {
@@ -1710,6 +2442,31 @@
    "xy": [
     908.4,
     166.8
+   ]
+  },
+  {
+   "id": "166887",
+   "name": "Middlesex Community College",
+   "type": "Community/technical college",
+   "city": "Bedford",
+   "state": "MA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Computer Science Artificial Intelligence Micro Credential",
+     "award": "Certificate",
+     "award_detail": "Microcredential",
+     "status": "offered",
+     "source_url": "https://www.middlesex.edu/academics/micro/offerings/programs/ComputerScienceArtificialIntelligenceMicroCredential.html",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    904.2,
+    164.4
    ]
   },
   {
@@ -1873,6 +2630,81 @@
    ]
   },
   {
+   "id": "172635",
+   "name": "Wayne County Community College District",
+   "type": "Community/technical college",
+   "city": "Detroit",
+   "state": "MI",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "AI and Big Data in Business Analytics, SCERT",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.wcccd.edu/academic-and-career-programs/business-and-computer-information/ai-and-big-data-in-business-analytics-scert",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    713.1,
+    207.4
+   ]
+  },
+  {
+   "id": "172918",
+   "name": "Alexandria Technical & Community College",
+   "type": "Community/technical college",
+   "city": "Alexandria",
+   "state": "MN",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Data Analytics & AI Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.alextech.edu/programs/data-analytics",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    507.9,
+    141.3
+   ]
+  },
+  {
+   "id": "173559",
+   "name": "Minnesota State Community and Technical College",
+   "type": "Community/technical college",
+   "city": "Fergus Falls",
+   "state": "MN",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Foundational AI Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.minnesota.edu/degrees/493",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    496.5,
+    131.9
+   ]
+  },
+  {
    "id": "173708",
    "name": "Hennepin Technical College",
    "type": "Community/technical college",
@@ -1911,6 +2743,56 @@
    "xy": [
     539.7,
     158.4
+   ]
+  },
+  {
+   "id": "174738",
+   "name": "Rochester Community and Technical College",
+   "type": "Community/technical college",
+   "city": "Rochester",
+   "state": "MN",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Business Intelligence and AI Implementation Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.rctc.edu/files/programs/BUS_AI_CERT_PROG_PLAN.html",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    556.2,
+    182.5
+   ]
+  },
+  {
+   "id": "175236",
+   "name": "Ridgewater College",
+   "type": "Community/technical college",
+   "city": "Willmar",
+   "state": "MN",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence (AI) Fundamentals Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://ridgewater.edu/academics/areas-of-study/business-marketing/artificial-intelligence/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    512.8,
+    157.9
    ]
   },
   {
@@ -2057,6 +2939,39 @@
    "xy": [
     898,
     154.3
+   ]
+  },
+  {
+   "id": "183141",
+   "name": "Nashua Community College",
+   "type": "Community/technical college",
+   "city": "Nashua",
+   "state": "NH",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Data Analytics AS, Data Science and AI Pathway",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AS (pathway)",
+     "status": "offered",
+     "source_url": "https://nashuacc.edu/program/data-analytics-business-analytics-pathway/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Data Analytics AS, Applied Analytics and AI Pathway",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AS (pathway)",
+     "status": "offered",
+     "source_url": "https://nashuacc.edu/program/data-analytics-2/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    898.7,
+    159.5
    ]
   },
   {
@@ -2229,17 +3144,26 @@
   },
   {
    "id": "187620",
-   "name": "New Mexico State University-Dona Ana",
+   "name": "Doña Ana Community College",
    "type": "Community/technical college",
    "city": "Las Cruces",
    "state": "NM",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence Technician, Certificate of Completion",
+     "award": "Certificate",
+     "award_detail": "Certificate of Completion",
+     "status": "offered",
+     "source_url": "https://catalogs.nmsu.edu/dona-ana/academic-career-programs/computer-information-technology/artificial-intelligence-technician-certificate-completion/",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [
     "r-2600556"
    ],
    "partners": [],
-   "kind": "grant",
+   "kind": "prog",
    "xy": [
     293.8,
     438.7
@@ -2268,6 +3192,31 @@
    ]
   },
   {
+   "id": "190530",
+   "name": "Bronx Community College",
+   "type": "Community/technical college",
+   "city": "Bronx",
+   "state": "NY",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Computer Information Systems AAS, Artificial Intelligence (A.I.) Option",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS (AI option)",
+     "status": "offered",
+     "source_url": "https://www.bcc.cuny.edu/academics/academic-departments/business-and-information-systems-department/degree-certificate-programs-courses/artificial-intelligence-a-i-option/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    870.5,
+    212.1
+   ]
+  },
+  {
    "id": "190628",
    "name": "CUNY LaGuardia Community College",
    "type": "Community/technical college",
@@ -2283,6 +3232,31 @@
    "xy": [
     870.7,
     214.8
+   ]
+  },
+  {
+   "id": "191199",
+   "name": "Finger Lakes Community College",
+   "type": "Community/technical college",
+   "city": "Canandaigua",
+   "state": "NY",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "AI Integration Specialist Microcredential",
+     "award": "Certificate",
+     "award_detail": "Microcredential",
+     "status": "offered",
+     "source_url": "https://www.flcc.edu/academics/programs/ai-integration-specialist-microcredential/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    806.2,
+    179.2
    ]
   },
   {
@@ -2486,17 +3460,76 @@
    "city": "Bolivia",
    "state": "NC",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence Engineer, AAS (A25710, with Wayne Community College)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.brunswickcc.edu/wp-content/uploads/2024/03/AAS-Artificial-Intelligence-A25710-ISA-with-Wayne-CC.pdf",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [
     {
      "unitid": "199892"
     }
    ],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     827.7,
     380.9
+   ]
+  },
+  {
+   "id": "198118",
+   "name": "Caldwell Community College and Technical Institute",
+   "type": "Community/technical college",
+   "city": "Hudson",
+   "state": "NC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence, AAS (A25710)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://cccti.edu/program/artificial-intelligence/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    761.5,
+    350.1
+   ]
+  },
+  {
+   "id": "198154",
+   "name": "Cape Fear Community College",
+   "type": "Community/technical college",
+   "city": "Wilmington",
+   "state": "NC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence Technology, AAS (A25710)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://cfcc.edu/ai/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    832,
+    375.3
    ]
   },
   {
@@ -2622,6 +3655,31 @@
    ]
   },
   {
+   "id": "198534",
+   "name": "Fayetteville Technical Community College",
+   "type": "Community/technical college",
+   "city": "Fayetteville",
+   "state": "NC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence Development Certificate (C25590C39)",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://faytechcc.edu/academics/computer-information-technology-programs/computer-programming-development/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    810.7,
+    360
+   ]
+  },
+  {
    "id": "198552",
    "name": "Forsyth Technical Community College",
    "type": "Community/technical college",
@@ -2719,6 +3777,39 @@
    ]
   },
   {
+   "id": "198668",
+   "name": "Haywood Community College",
+   "type": "Community/technical college",
+   "city": "Clyde",
+   "state": "NC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Information Technology – Artificial Intelligence, AAS",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.haywood.edu/programs/information-technology.php",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Information Technology – Artificial Intelligence, Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.haywood.edu/programs/information-technology.php",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    736.5,
+    361.3
+   ]
+  },
+  {
    "id": "198710",
    "name": "Isothermal Community College",
    "type": "Community/technical college",
@@ -2762,7 +3853,16 @@
    "city": "Smithfield",
    "state": "NC",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence Engineer, AAS (with Wayne Community College)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.johnstoncc.edu/programs/artificial-intelligence-engineer.php",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [
     "r-49"
    ],
@@ -2771,7 +3871,7 @@
      "unitid": "199892"
     }
    ],
-   "kind": "grant",
+   "kind": "prog",
    "xy": [
     819.6,
     348.3
@@ -2784,17 +3884,51 @@
    "city": "Kinston",
    "state": "NC",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence Engineer, AAS (with Wayne Community College)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.lenoircc.edu/programs/artificial-intelligence/",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [
     {
      "unitid": "199892"
     }
    ],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     834.5,
     351.7
+   ]
+  },
+  {
+   "id": "198914",
+   "name": "Mayland Community College",
+   "type": "Community/technical college",
+   "city": "Spruce Pine",
+   "state": "NC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Information Technology – Artificial Intelligence Certificate (C25590AI)",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.mayland.edu/degrees-programs/information-technology/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    751.6,
+    349.7
    ]
   },
   {
@@ -2866,6 +4000,89 @@
    "xy": [
     804.1,
     329.5
+   ]
+  },
+  {
+   "id": "199421",
+   "name": "Randolph Community College",
+   "type": "Community/technical college",
+   "city": "Asheboro",
+   "state": "NC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Information Technology – Artificial Intelligence Specialist, AAS (A25590AI)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.randolph.edu/academics/college-majors/information-technology/index.aspx",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    792,
+    349.3
+   ]
+  },
+  {
+   "id": "199476",
+   "name": "Robeson Community College",
+   "type": "Community/technical college",
+   "city": "Lumberton",
+   "state": "NC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Information Technology, Artificial Intelligence (AAS)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.robeson.edu/business-technologies/information-technology/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    810.8,
+    369.2
+   ]
+  },
+  {
+   "id": "199731",
+   "name": "Southwestern Community College",
+   "type": "Community/technical college",
+   "city": "Sylva",
+   "state": "NC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "IT Artificial Intelligence Diploma",
+     "award": "Certificate",
+     "award_detail": "Diploma",
+     "status": "offered",
+     "source_url": "https://www.southwesterncc.edu/career-technologies/information-technology/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "IT Artificial Intelligence Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.southwesterncc.edu/career-technologies/information-technology/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    732,
+    366
    ]
   },
   {
@@ -2964,6 +4181,31 @@
    "xy": [
     827,
     349.2
+   ]
+  },
+  {
+   "id": "199926",
+   "name": "Wilkes Community College",
+   "type": "Community/technical college",
+   "city": "Wilkesboro",
+   "state": "NC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence Certificate (C25590AI)",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.wilkescc.edu/wp-content/uploads/2026/04/CATALOG_2026_2027-1.pdf",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    765.9,
+    342.8
    ]
   },
   {
@@ -3191,15 +4433,74 @@
    "city": "Marion",
    "state": "OH",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.mtc.edu/nsf-ate/ai/index.html",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [
     "r-2500324"
    ],
    "partners": [],
-   "kind": "grant",
+   "kind": "prog",
    "xy": [
     717.9,
     247.1
+   ]
+  },
+  {
+   "id": "204255",
+   "name": "Zane State College",
+   "type": "Community/technical college",
+   "city": "Zanesville",
+   "state": "OH",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://catalog.zanestate.edu/preview_program.php?catoid=4&poid=181",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    737.9,
+    258.5
+   ]
+  },
+  {
+   "id": "204422",
+   "name": "North Central State College",
+   "type": "Community/technical college",
+   "city": "Mansfield",
+   "state": "OH",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "AI in Business Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://ncstatecollege.edu/ai-business/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    725.8,
+    240.9
    ]
   },
   {
@@ -3448,6 +4749,72 @@
    "xy": [
     905.6,
     183.2
+   ]
+  },
+  {
+   "id": "218113",
+   "name": "Greenville Technical College",
+   "type": "Community/technical college",
+   "city": "Greenville",
+   "state": "SC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence Foundations Certificate in Applied Science",
+     "award": "Certificate",
+     "award_detail": "Certificate in Applied Science",
+     "status": "offered",
+     "source_url": "https://catalog.gvltec.edu/school-business-computer-technology/computer-technology/artificial-intelligence-foundations-certificate/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "AI for Data Systems Certificate in Applied Science",
+     "award": "Certificate",
+     "award_detail": "Certificate in Applied Science",
+     "status": "offered",
+     "source_url": "https://catalog.gvltec.edu/school-business-computer-technology/computer-technology/artificial-intelligence-for-data-systems-certificate/",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "AI for Cybersecurity Systems Certificate in Applied Science",
+     "award": "Certificate",
+     "award_detail": "Certificate in Applied Science",
+     "status": "offered",
+     "source_url": "https://catalog.gvltec.edu/school-business-computer-technology/computer-technology/artificial-intelligence-for-cybersecurity-systems-certificate/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    748.9,
+    375.7
+   ]
+  },
+  {
+   "id": "218140",
+   "name": "Horry-Georgetown Technical College",
+   "type": "Community/technical college",
+   "city": "Conway",
+   "state": "SC",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence (AI) Innovators Certificate",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://www.hgtc.edu/academics/academic-departments/computer-technology-digital-arts-cybersecurity/artificial-intelligence-innovators.html",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    814.5,
+    388.9
    ]
   },
   {
@@ -4302,14 +5669,23 @@
    "city": "Chester",
    "state": "VA",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence, Career Studies Certificate",
+     "award": "Certificate",
+     "award_detail": "Career Studies Certificate",
+     "status": "offered",
+     "source_url": "https://www.brightpoint.edu/majors/artificial-intelligence-csc",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [
     {
      "unitid": "234155"
     }
    ],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     828,
     303.7
@@ -4322,14 +5698,23 @@
    "city": "Middletown",
    "state": "VA",
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [],
+   "programs": [
+    {
+     "name": "Artificial Intelligence (AI) and Applied Data Science, Career Studies Certificate",
+     "award": "Certificate",
+     "award_detail": "Career Studies Certificate",
+     "status": "offered",
+     "source_url": "https://laurelridge.edu/degree/artificial-intelligence-ai-and-applied-data-science/",
+     "as_of": "2026-11-13"
+    }
+   ],
    "grants": [],
    "partners": [
     {
      "unitid": "135717"
     }
    ],
-   "kind": "ep",
+   "kind": "prog",
    "xy": [
     805.8,
     268.5
@@ -4373,6 +5758,31 @@
    "xy": [
     824.3,
     269.7
+   ]
+  },
+  {
+   "id": "233648",
+   "name": "Southwest Virginia Community College",
+   "type": "Community/technical college",
+   "city": "Cedar Bluff",
+   "state": "VA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Applied Artificial Intelligence, Career Studies Certificate",
+     "award": "Certificate",
+     "award_detail": "Career Studies Certificate",
+     "status": "offered",
+     "source_url": "https://www.sw.edu/academics/programs/applied-artificial-intelligence/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    752,
+    324.8
    ]
   },
   {
@@ -4466,6 +5876,31 @@
    ]
   },
   {
+   "id": "234933",
+   "name": "Clark College",
+   "type": "Community college (bacc-granting)",
+   "city": "Vancouver",
+   "state": "WA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Computer Science BS, AI Specialization",
+     "award": "BAS/Bachelor's",
+     "award_detail": "BS (AI specialization)",
+     "status": "offered",
+     "source_url": "https://catalog.clark.edu/academic-plans/computer-science-bs/computer-science-bs.html",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    80.6,
+    87.8
+   ]
+  },
+  {
    "id": "235103",
    "name": "Edmonds College",
    "type": "Community college (bacc-granting)",
@@ -4543,6 +5978,31 @@
    ]
   },
   {
+   "id": "238263",
+   "name": "Madison Area Technical College",
+   "type": "Community/technical college",
+   "city": "Madison",
+   "state": "WI",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "AI Data Specialist, AAS (10-156-4)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://madisoncollege.edu/academics/programs/data-specialist",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    607.8,
+    200
+   ]
+  },
+  {
    "id": "238722",
    "name": "Fox Valley Technical College",
    "type": "Community/technical college",
@@ -4610,6 +6070,89 @@
    ]
   },
   {
+   "id": "239008",
+   "name": "Lakeshore Technical College",
+   "type": "Community/technical college",
+   "city": "Cleveland",
+   "state": "WI",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "AI Data Specialist, AAS (10-156-4)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://lakeshore.edu/programs-and-courses/career-areas/information-technology-it/ai-data-specialist",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Applied AI in Business and Data, Certificate (19-150-4)",
+     "award": "Certificate",
+     "award_detail": "Certificate",
+     "status": "offered",
+     "source_url": "https://lakeshore.edu/academics/certificates/applied-ai-business-data",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    632.1,
+    179.8
+   ]
+  },
+  {
+   "id": "239220",
+   "name": "Mid-State Technical College",
+   "type": "Community/technical college",
+   "city": "Wisconsin Rapids",
+   "state": "WI",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "AI Data Specialist, AAS (10-156-4)",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.mstc.edu/programs-and-courses/all-programs/ai-data-specialist",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    598.5,
+    171.7
+   ]
+  },
+  {
+   "id": "239248",
+   "name": "Milwaukee Area Technical College",
+   "type": "Community/technical college",
+   "city": "Milwaukee",
+   "state": "WI",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "IT Network Specialist (AI, Cloud and Virtualization), Associate Degree",
+     "award": "AAS/AS (associate)",
+     "award_detail": "Associate Degree",
+     "status": "offered",
+     "source_url": "https://www.matc.edu/course-catalog/stem/it-network-specialist.html",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    631.1,
+    200
+   ]
+  },
+  {
    "id": "239372",
    "name": "Moraine Park Technical College",
    "type": "Community/technical college",
@@ -4636,6 +6179,39 @@
    "xy": [
     621.6,
     183.8
+   ]
+  },
+  {
+   "id": "239460",
+   "name": "Northcentral Technical College",
+   "type": "Community/technical college",
+   "city": "Wausau",
+   "state": "WI",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Artificial Intelligence Developer, Associate Degree",
+     "award": "AAS/AS (associate)",
+     "award_detail": "Associate Degree",
+     "status": "offered",
+     "source_url": "https://www.ntc.edu/academics-training/programs/all/associate-degree/artificial-intelligence-developer",
+     "as_of": "2026-11-13"
+    },
+    {
+     "name": "Foundations of Artificial Intelligence, Technical Diploma",
+     "award": "Certificate",
+     "award_detail": "Diploma",
+     "status": "offered",
+     "source_url": "https://www.ntc.edu/academics-training/programs/all/technical-diploma/foundations-artificial-intelligence",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    599.8,
+    158
    ]
   },
   {
@@ -4752,6 +6328,56 @@
    "xy": [
     349.4,
     243.1
+   ]
+  },
+  {
+   "id": "244446",
+   "name": "Georgia Piedmont Technical College",
+   "type": "Community/technical college",
+   "city": "Clarkston",
+   "state": "GA",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Generative AI: Principles and Practice, Technical Certificate of Credit (GAP1)",
+     "award": "Certificate",
+     "award_detail": "Technical Certificate of Credit (TCC)",
+     "status": "offered",
+     "source_url": "https://www.gptc.edu/college-catalog/current/programs/generative-ai-principles-",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    717.7,
+    403.8
+   ]
+  },
+  {
+   "id": "245625",
+   "name": "Warren County Community College",
+   "type": "Community/technical college",
+   "city": "Washington",
+   "state": "NJ",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "A.S. in Applied Robotics and AI",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AS",
+     "status": "offered",
+     "source_url": "https://www.warren.edu/wp-content/uploads/2025/10/A.S.-Applied-Robotics-and-AI.pdf",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    852.7,
+    218.9
    ]
   },
   {
@@ -5087,6 +6713,31 @@
    "xy": [
     808.6,
     258.7
+   ]
+  },
+  {
+   "id": "447582",
+   "name": "New River Community and Technical College",
+   "type": "Community/technical college",
+   "city": "Beaver",
+   "state": "WV",
+   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
+   "programs": [
+    {
+     "name": "Business: Artificial Intelligence, AAS",
+     "award": "AAS/AS (associate)",
+     "award_detail": "AAS",
+     "status": "offered",
+     "source_url": "https://www.newriver.edu/courses/business-ai-aas/",
+     "as_of": "2026-11-13"
+    }
+   ],
+   "grants": [],
+   "partners": [],
+   "kind": "prog",
+   "xy": [
+    761,
+    305.8
    ]
   },
   {
@@ -6832,46 +8483,46 @@
    "year": 2020,
    "us": 2,
    "tx": 1,
-   "unknown": "119"
+   "unknown": "203"
   },
   {
    "year": 2021,
    "us": 3,
    "tx": 1,
-   "unknown": "119"
+   "unknown": "203"
   },
   {
    "year": 2022,
    "us": 4,
    "tx": 1,
-   "unknown": "119"
+   "unknown": "203"
   },
   {
    "year": 2023,
    "us": 10,
    "tx": 2,
-   "unknown": "119"
+   "unknown": "203"
   },
   {
    "year": 2024,
    "us": 22,
    "tx": 2,
-   "unknown": "119"
+   "unknown": "203"
   },
   {
    "year": 2025,
    "us": 36,
    "tx": 6,
-   "unknown": "119"
+   "unknown": "203"
   },
   {
    "year": 2026,
    "us": 65,
    "tx": 17,
-   "unknown": "119"
+   "unknown": "203"
   }
  ],
- "growth_unknown_us": "119",
+ "growth_unknown_us": "203",
  "growth_progs": [
   {
    "unitid": "225423",
