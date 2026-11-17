@@ -25,6 +25,12 @@ The `site/` folder in this repo is build 8c4e8669, which is the live build.
   programs**. 4 colleges move up a credential type in the map filter: Broward (to bachelor's), and Davidson-Davie,
   Estrella Mountain and Stark State (to associate). The new programs show no launch year, so the note under the
   growth table now counts 119.
+- Map: 67 colleges join the map with 84 programs, from the same Nov 13 check. 57 are new to the data and 10 were
+  already in it as grant or partner colleges. The map now shows **172 colleges and 266 programs**. The new programs
+  show no launch year, so the note under the growth table now counts 203. New Mexico State University-Dona Ana is
+  renamed Doña Ana Community College, its current name.
+- `NEEDS-VERIFICATION.md` lists 10 more programs from the check, at colleges not on the map, that wait for a program
+  page.
 - Map page: "Updated" moves to Nov 16, 2026.
 
 ## Nov 11, 2026
