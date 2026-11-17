@@ -32,6 +32,13 @@ The `site/` folder in this repo is build 8c4e8669, which is the live build.
 - `NEEDS-VERIFICATION.md` lists 10 more programs from the check, at colleges not on the map, that wait for a program
   page.
 - Map page: "Updated" moves to Nov 16, 2026.
+- Both pages: the heading is now "AI Program Momentum Across the U.S.", and the map page adds the line "AI programs at
+  community colleges nationwide. Not a measure of NAAIC's impact." Page titles follow.
+- Map, national view: pointing at a state highlights the whole state and shows one tooltip with its college count by
+  highest credential. A click anywhere in a state zooms to it. College dots open only after zooming in. Before, dots
+  caught the pointer, so a state full of dots, such as Florida, could not be zoomed.
+- Map: stronger fills for the hovered state and the zoomed state, and the other states fade while zoomed. The zoomed
+  state's college list is grouped by highest credential.
 
 ## Nov 11, 2026
 
