@@ -26,6 +26,8 @@ Record edits that are not live yet under `## Unreleased` in `CHANGELOG.md`. Each
 
 Merging leaves the live map unchanged. Publishing is a separate manual step: a maintainer locks a copy of `site/`, records its fingerprint and a rollback point, takes screenshots, and uploads it to the host. Agents never merge or deploy.
 
+A manual GitHub Pages workflow (`.github/workflows/pages.yml`, see README "Publishing with GitHub Pages") can also publish `site/`. Only a maintainer runs it.
+
 ## This repo is public
 
 Code, data and pull requests live here. Planning lives in the private `National-Applied-AI-Consortium/naaic-ai-map-planning` repo.

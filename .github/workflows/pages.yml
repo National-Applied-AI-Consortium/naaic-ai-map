@@ -1,0 +1,67 @@
+# Publishes site/ to GitHub Pages. Runs only when a maintainer starts it; merging never deploys.
+# Run it from the Actions tab or: gh workflow run pages.yml -f ref=<commit SHA>
+# Revert: run it again with an older commit SHA as `ref`.
+name: Deploy to GitHub Pages
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: Commit SHA or branch to publish
+        required: false
+        default: main
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ inputs.ref }}
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.13"
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: "24"
+      - run: python3 scripts/site_data.py check
+      - run: python3 -m unittest discover -s scripts
+      - run: node scripts/test_credential_filter.mjs
+      - name: Record commit and site hash
+        env:
+          REF: ${{ inputs.ref }}
+        run: |
+          commit=$(git rev-parse HEAD)
+          # Same command as the top of CHANGELOG.md.
+          hash=$(cd site && find . -type f -print0 | LC_ALL=C sort -z | xargs -0 sha256sum | sha256sum | cut -d' ' -f1)
+          {
+            echo "## Publishing build ${hash:0:8}"
+            echo
+            echo "- Requested ref: \`$REF\`"
+            echo "- Commit: \`$commit\`"
+            echo "- Site hash: \`$hash\`"
+          } >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9 # v5.0.0
+        with:
+          path: site/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
