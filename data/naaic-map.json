@@ -1200,7 +1200,7 @@
   },
   {
    "id": "134495",
-   "name": "Hillsborough Community College",
+   "name": "Hillsborough College",
    "type": "Community/technical college",
    "city": "Tampa",
    "state": "FL",
@@ -1211,8 +1211,8 @@
      "award": "AAS/AS (associate)",
      "award_detail": "AS",
      "status": "offered",
-     "source_url": "https://www.hccfl.edu/academics/subjects/information-technology/artificial-intelligence",
-     "as_of": "2026-10-08"
+     "source_url": "https://www.hcfl.edu/academics/subjects/information-technology/artificial-intelligence",
+     "as_of": "2026-11-17"
     }
    ],
    "grants": [],
@@ -1661,8 +1661,8 @@
      "award": "Certificate",
      "award_detail": "Career Certificate",
      "status": "offered",
-     "source_url": "https://catalog.tsc.fl.edu/preview_program.php?catoid=23&poid=2652",
-     "as_of": "2026-10-08"
+     "source_url": "https://catalog.tsc.fl.edu/preview_program.php?catoid=24&poid=2783",
+     "as_of": "2026-11-13"
     }
    ],
    "grants": [],
@@ -2713,28 +2713,28 @@
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
    "programs": [
     {
-     "name": "Artificial Intelligence",
+     "name": "Artificial Intelligence AAS",
      "award": "AAS/AS (associate)",
      "award_detail": "AAS",
      "status": "offered",
      "source_url": "https://hennepintech.edu/program/artificial-intelligence/",
-     "as_of": "2026-10-08"
+     "as_of": "2026-11-17"
     },
     {
-     "name": "Artificial Intelligence",
+     "name": "Artificial Intelligence Diploma",
      "award": "Certificate",
      "award_detail": "Diploma",
      "status": "offered",
      "source_url": "https://hennepintech.edu/program/artificial-intelligence/",
-     "as_of": "2026-10-08"
+     "as_of": "2026-11-17"
     },
     {
-     "name": "Artificial Intelligence",
+     "name": "Artificial Intelligence Certificate",
      "award": "Certificate",
      "award_detail": "Certificate",
      "status": "offered",
      "source_url": "https://hennepintech.edu/program/artificial-intelligence/",
-     "as_of": "2026-10-08"
+     "as_of": "2026-11-17"
     }
    ],
    "grants": [],
@@ -9062,7 +9062,7 @@
    "award": "Career Certificate",
    "fy": 2025,
    "fy_src": "https://catalog.tsc.fl.edu/preview_program.php?catoid=23&poid=2652",
-   "src": "https://catalog.tsc.fl.edu/preview_program.php?catoid=23&poid=2652",
+   "src": "https://catalog.tsc.fl.edu/preview_program.php?catoid=24&poid=2783",
    "as_of": "2026-10-08",
    "conf": "high",
    "method": "catalog_first_listed"
