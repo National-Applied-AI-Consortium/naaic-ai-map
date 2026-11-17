@@ -157,6 +157,20 @@ outside this repo reach the live map only through a pull request here.
 
 Planning and team discussion happen in a private tracker. Automated tools open pull requests and never merge or publish.
 
+## Publishing with GitHub Pages
+
+A manual workflow, `.github/workflows/pages.yml`, publishes `site/` to GitHub Pages. Merging never runs it.
+
+- Run it from the Actions tab ("Deploy to GitHub Pages", "Run workflow") or with
+  `gh workflow run pages.yml -f ref=<commit SHA>`. `ref` defaults to `main`; a commit SHA pins the exact build.
+- It runs the same checks as CI, then writes the commit and the `site/` hash to the run summary. Check that hash
+  against `CHANGELOG.md`.
+- The `github-pages` environment should require a reviewer, so a run waits for approval before it deploys.
+- To revert, run it again with an older commit SHA as `ref`.
+- Until the map.naaic.ai DNS record exists, the address is https://national-applied-ai-consortium.github.io/naaic-ai-map/.
+
+The current host stays the live map until the team switches to GitHub Pages.
+
 ## Hosting
 
 Any static host works: upload the contents of `site/` as the web root. The canonical address in
