@@ -39,6 +39,10 @@ The `site/` folder in this repo is build 8c4e8669, which is the live build.
   caught the pointer, so a state full of dots, such as Florida, could not be zoomed.
 - Map: stronger fills for the hovered state and the zoomed state, and the other states fade while zoomed. The zoomed
   state's college list is grouped by highest credential.
+- Map: Hillsborough Community College is renamed Hillsborough College, its current name, and its program links to the
+  college's new site (hcfl.edu). Tallahassee State College's AI Practitioner certificate links to the 2026-27 catalog.
+  Hennepin Technical College's 3 programs, all named "Artificial Intelligence", are now named by award: AAS, Diploma
+  and Certificate.
 
 ## Nov 11, 2026
 
