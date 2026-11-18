@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-18",
  "window": "2024-01-01",
  "inst": [
   {
@@ -1572,7 +1572,7 @@
   },
   {
    "id": "137078",
-   "name": "St Petersburg College",
+   "name": "St. Petersburg College",
    "type": "Community college (bacc-granting)",
    "city": "St. Petersburg",
    "state": "FL",
@@ -1816,31 +1816,6 @@
    "xy": [
     724.6,
     390.5
-   ]
-  },
-  {
-   "id": "141839",
-   "name": "University of Hawaiʻi Maui College",
-   "type": "Community college (bacc-granting)",
-   "city": "Kahului",
-   "state": "HI",
-   "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
-   "programs": [
-    {
-     "name": "Applied Business and Information Technology (ABIT) BAS, AI/Machine Learning Focus Area",
-     "award": "BAS/Bachelor's",
-     "award_detail": "BAS (AI focus area)",
-     "status": "offered",
-     "source_url": "https://maui.hawaii.edu/programs/abit",
-     "as_of": "2026-11-13"
-    }
-   ],
-   "grants": [],
-   "partners": [],
-   "kind": "prog",
-   "xy": [
-    296.4,
-    558.6
    ]
   },
   {
@@ -2395,12 +2370,12 @@
    "geo_source": "https://nces.ed.gov/ipeds/datacenter/data/HD2024.zip",
    "programs": [
     {
-     "name": "Applied Artificial Intelligence",
+     "name": "Artificial Intelligence, AAS",
      "award": "AAS/AS (associate)",
      "award_detail": "AAS",
      "status": "offered",
      "source_url": "https://www.bristolcc.edu/learnatbristol/degreescertificatesandclasses/computerscience/artificialintelligence.html",
-     "as_of": "2026-11-13"
+     "as_of": "2026-11-18"
     },
     {
      "name": "Artificial Intelligence Practitioner Certificate",
@@ -5186,14 +5161,6 @@
      "status": "offered",
      "source_url": "https://catalog.hccs.edu/preview_program.php?catoid=26&poid=11940",
      "as_of": "2026-10-08"
-    },
-    {
-     "name": "AI Essentials",
-     "award": "Certificate",
-     "award_detail": "Noncredit certificate (CE)",
-     "status": "offered",
-     "source_url": "https://www.hccs.edu/programs--courses/explore-all-programs/ai-essentials/",
-     "as_of": "2026-10-08"
     }
    ],
    "grants": [],
@@ -6927,7 +6894,7 @@
   {
    "id": "r-0",
    "unitid": "137078",
-   "recipient": "St Petersburg College",
+   "recipient": "St. Petersburg College",
    "state": "FL",
    "amount": 2900000,
    "funder": "Title III Strengthening Institutions Program (U.S. Department of Education, administered by U.S. Department of Labor)",
@@ -8483,46 +8450,46 @@
    "year": 2020,
    "us": 2,
    "tx": 1,
-   "unknown": "203"
+   "unknown": "201"
   },
   {
    "year": 2021,
    "us": 3,
    "tx": 1,
-   "unknown": "203"
+   "unknown": "201"
   },
   {
    "year": 2022,
    "us": 4,
    "tx": 1,
-   "unknown": "203"
+   "unknown": "201"
   },
   {
    "year": 2023,
    "us": 10,
    "tx": 2,
-   "unknown": "203"
+   "unknown": "201"
   },
   {
    "year": 2024,
    "us": 22,
    "tx": 2,
-   "unknown": "203"
+   "unknown": "201"
   },
   {
    "year": 2025,
    "us": 36,
    "tx": 6,
-   "unknown": "203"
+   "unknown": "201"
   },
   {
    "year": 2026,
    "us": 65,
    "tx": 17,
-   "unknown": "203"
+   "unknown": "201"
   }
  ],
- "growth_unknown_us": "203",
+ "growth_unknown_us": "201",
  "growth_progs": [
   {
    "unitid": "225423",
