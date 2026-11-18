@@ -8,10 +8,13 @@ build folder:
 cd site && find . -type f -print0 | LC_ALL=C sort -z | xargs -0 sha256sum | sha256sum
 ```
 
-The `site/` folder in this repo is build 8c4e8669, which is the live build.
+The `site/` folder in this repo is build d579118d, which is the live build.
 
 ## Unreleased (in the repo, not yet live)
 
+## Nov 18, 2026
+
+### d579118d: 121 programs back or added, 67 new colleges, state-level hover and zoom, new heading (current)
 - Map: 19 of the 26 programs hidden since build 58c81b71 for an unconfirmed launch year are back, after a Nov 13, 2026
   check of each program page. 11 colleges return to the map, and 6 colleges already on it gain a program. The map now
   shows **105 colleges and 164 programs** (was 94 and 145). The restored programs show no launch year, so the note
@@ -42,7 +45,7 @@ The `site/` folder in this repo is build 8c4e8669, which is the live build.
 
 ## Nov 11, 2026
 
-### 8c4e8669: Atlantic Cape and NWACC program names (current)
+### 8c4e8669: Atlantic Cape and NWACC program names
 - Map: 2 programs are renamed to match their sources. Atlantic Cape's is now "Computer Programming AAS, Artificial
   Intelligence & Machine Learning Option" (was "Associate Degree in Applied Science, Artificial Intelligence and Machine
   Learning"), in the map and the growth table. NorthWest Arkansas's is now "Certificate of Proficiency in Artificial
